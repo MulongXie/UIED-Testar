@@ -1,0 +1,2613 @@
+{
+  "widgetJsonObjects": [
+    {
+      "widgetId": "WCC9umpeu294651596375",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAListItem",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.036711891",
+            "y": "0.304236200"
+          },
+          {
+            "x": "0.157222666",
+            "y": "0.304236200"
+          },
+          {
+            "x": "0.157222666",
+            "y": "0.328626444"
+          },
+          {
+            "x": "0.036711891",
+            "y": "0.328626444"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Consolas",
+      "desc": "Consolas",
+      "name": "Consolas",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCg0w9v2943357288962",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAListItem",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.036711891",
+            "y": "0.426187420"
+          },
+          {
+            "x": "0.157222666",
+            "y": "0.426187420"
+          },
+          {
+            "x": "0.157222666",
+            "y": "0.450577664"
+          },
+          {
+            "x": "0.036711891",
+            "y": "0.450577664"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Courier",
+      "desc": "Courier",
+      "name": "Courier",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC10i5m3r2942833040273",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAListItem",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.186751796",
+            "y": "0.353016688"
+          },
+          {
+            "x": "0.273743017",
+            "y": "0.353016688"
+          },
+          {
+            "x": "0.273743017",
+            "y": "0.377406932"
+          },
+          {
+            "x": "0.186751796",
+            "y": "0.377406932"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Negrita",
+      "desc": "Negrita",
+      "name": "Negrita",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1tinism2af3038251503",
+      "destinationState": "none",
+      "enabled": false,
+      "role": "UIAWindow",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000000000",
+            "y": "0.000000000"
+          },
+          {
+            "x": "1.000000000",
+            "y": "0.000000000"
+          },
+          {
+            "x": "1.000000000",
+            "y": "1.000000000"
+          },
+          {
+            "x": "0.000000000",
+            "y": "1.000000000"
+          }
+        ]
+      },
+      "className": "Notepad",
+      "title": "Sin título: Bloc de notas",
+      "desc": "Sin título: Bloc de notas",
+      "name": "Sin título: Bloc de notas",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1dv13s42b14034173599",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAScrollBar",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.337589785",
+            "y": "0.304236200"
+          },
+          {
+            "x": "0.351157223",
+            "y": "0.304236200"
+          },
+          {
+            "x": "0.351157223",
+            "y": "0.439024390"
+          },
+          {
+            "x": "0.337589785",
+            "y": "0.439024390"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Vertical",
+      "desc": "Vertical",
+      "name": "Vertical",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1qo8wcl28e1204653556",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAListItem",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.304070231",
+            "y": "0.323491656"
+          },
+          {
+            "x": "0.337589785",
+            "y": "0.323491656"
+          },
+          {
+            "x": "0.337589785",
+            "y": "0.342747112"
+          },
+          {
+            "x": "0.304070231",
+            "y": "0.342747112"
+          }
+        ]
+      },
+      "className": "",
+      "title": "12",
+      "desc": "12",
+      "name": "12",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC3mfoi02922588754756",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAListItem",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.186751796",
+            "y": "0.304236200"
+          },
+          {
+            "x": "0.273743017",
+            "y": "0.304236200"
+          },
+          {
+            "x": "0.273743017",
+            "y": "0.328626444"
+          },
+          {
+            "x": "0.186751796",
+            "y": "0.328626444"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Normal",
+      "desc": "Normal",
+      "name": "Normal",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1x7be8i28d3874893860",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAListItem",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.304070231",
+            "y": "0.304236200"
+          },
+          {
+            "x": "0.337589785",
+            "y": "0.304236200"
+          },
+          {
+            "x": "0.337589785",
+            "y": "0.323491656"
+          },
+          {
+            "x": "0.304070231",
+            "y": "0.323491656"
+          }
+        ]
+      },
+      "className": "",
+      "title": "11",
+      "desc": "11",
+      "name": "11",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCywqpfs2a1906146189",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAEdit",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000798085",
+            "y": "0.065468549"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.065468549"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.962772786"
+          },
+          {
+            "x": "0.000798085",
+            "y": "0.962772786"
+          }
+        ]
+      },
+      "className": "Edit",
+      "title": "Editor de texto",
+      "desc": "Editor de texto",
+      "name": "Editor de texto",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCqjx3zs2a43666094776",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAComboBox",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.302474062",
+            "y": "0.273427471"
+          },
+          {
+            "x": "0.352753392",
+            "y": "0.273427471"
+          },
+          {
+            "x": "0.352753392",
+            "y": "0.441591784"
+          },
+          {
+            "x": "0.302474062",
+            "y": "0.441591784"
+          }
+        ]
+      },
+      "className": "ComboBox",
+      "title": "Tamaño:",
+      "desc": "Tamaño:",
+      "name": "Tamaño:",
+      "toolTipText": "",
+      "valuePattern": "11"
+    },
+    {
+      "widgetId": "WCCk0ikle2b4188699624",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAList",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.185155626",
+            "y": "0.301668806"
+          },
+          {
+            "x": "0.288906624",
+            "y": "0.301668806"
+          },
+          {
+            "x": "0.288906624",
+            "y": "0.453145058"
+          },
+          {
+            "x": "0.185155626",
+            "y": "0.453145058"
+          }
+        ]
+      },
+      "className": "ComboLBox",
+      "title": "Estilo de fuente:",
+      "desc": "Estilo de fuente:",
+      "name": "Estilo de fuente:",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCket4eh29f2352547075",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAHyperLink",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.035115722",
+            "y": "0.713735558"
+          },
+          {
+            "x": "0.121308859",
+            "y": "0.713735558"
+          },
+          {
+            "x": "0.121308859",
+            "y": "0.732991014"
+          },
+          {
+            "x": "0.035115722",
+            "y": "0.732991014"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Mostrar más fuentes",
+      "desc": "Mostrar más fuentes",
+      "name": "Mostrar más fuentes",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCx0e3942a63626434226",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.157222666",
+            "y": "0.304236200"
+          },
+          {
+            "x": "0.170790104",
+            "y": "0.304236200"
+          },
+          {
+            "x": "0.170790104",
+            "y": "0.326059050"
+          },
+          {
+            "x": "0.157222666",
+            "y": "0.326059050"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Línea arriba",
+      "desc": "Línea arriba",
+      "name": "Línea arriba",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1t7n9ev2923728311004",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.925778132",
+            "y": "0.001283697"
+          },
+          {
+            "x": "0.962490024",
+            "y": "0.001283697"
+          },
+          {
+            "x": "0.962490024",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.925778132",
+            "y": "0.039794608"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Maximizar",
+      "desc": "Maximizar",
+      "name": "Maximizar",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC10ihaad2a71363650848",
+      "destinationState": "none",
+      "enabled": false,
+      "role": "UIAButton",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.273743017",
+            "y": "0.304236200"
+          },
+          {
+            "x": "0.287310455",
+            "y": "0.304236200"
+          },
+          {
+            "x": "0.287310455",
+            "y": "0.326059050"
+          },
+          {
+            "x": "0.273743017",
+            "y": "0.326059050"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Línea arriba",
+      "desc": "Línea arriba",
+      "name": "Línea arriba",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1krun1g28e2534569441",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAListItem",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.304070231",
+            "y": "0.342747112"
+          },
+          {
+            "x": "0.337589785",
+            "y": "0.342747112"
+          },
+          {
+            "x": "0.337589785",
+            "y": "0.362002567"
+          },
+          {
+            "x": "0.304070231",
+            "y": "0.362002567"
+          }
+        ]
+      },
+      "className": "",
+      "title": "14",
+      "desc": "14",
+      "name": "14",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC5ynjpu2b12204907316",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAStatusBar",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000798085",
+            "y": "0.962772786"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.962772786"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.998716303"
+          },
+          {
+            "x": "0.000798085",
+            "y": "0.998716303"
+          }
+        ]
+      },
+      "className": "msctls_statusbar32",
+      "title": "Barra de estado",
+      "desc": "Barra de estado",
+      "name": "Barra de estado",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1u2wolq28e3111766896",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAListItem",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.304070231",
+            "y": "0.362002567"
+          },
+          {
+            "x": "0.337589785",
+            "y": "0.362002567"
+          },
+          {
+            "x": "0.337589785",
+            "y": "0.381258023"
+          },
+          {
+            "x": "0.304070231",
+            "y": "0.381258023"
+          }
+        ]
+      },
+      "className": "",
+      "title": "16",
+      "desc": "16",
+      "name": "16",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1xtzonv2ab2150946527",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAComboBox",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.185155626",
+            "y": "0.608472401"
+          },
+          {
+            "x": "0.352753392",
+            "y": "0.608472401"
+          },
+          {
+            "x": "0.352753392",
+            "y": "0.636713736"
+          },
+          {
+            "x": "0.185155626",
+            "y": "0.636713736"
+          }
+        ]
+      },
+      "className": "ComboBox",
+      "title": "Script:",
+      "desc": "Script:",
+      "name": "Script:",
+      "toolTipText": "",
+      "valuePattern": "Occidental"
+    },
+    {
+      "widgetId": "WCCdavs012b11296138893",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAScrollBar",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.157222666",
+            "y": "0.304236200"
+          },
+          {
+            "x": "0.170790104",
+            "y": "0.304236200"
+          },
+          {
+            "x": "0.170790104",
+            "y": "0.450577664"
+          },
+          {
+            "x": "0.157222666",
+            "y": "0.450577664"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Vertical",
+      "desc": "Vertical",
+      "name": "Vertical",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCjqp02n28f4167584310",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.769353551",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.807661612",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.807661612",
+            "y": "0.998716303"
+          },
+          {
+            "x": "0.769353551",
+            "y": "0.998716303"
+          }
+        ]
+      },
+      "className": "",
+      "title": " 100%",
+      "desc": " 100%",
+      "name": " 100%",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1f2lu802b7850001727",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAList",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.302474062",
+            "y": "0.301668806"
+          },
+          {
+            "x": "0.352753392",
+            "y": "0.301668806"
+          },
+          {
+            "x": "0.352753392",
+            "y": "0.441591784"
+          },
+          {
+            "x": "0.302474062",
+            "y": "0.441591784"
+          }
+        ]
+      },
+      "className": "ComboLBox",
+      "title": "Tamaño:",
+      "desc": "Tamaño:",
+      "name": "Tamaño:",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1tyjt5728e3669090061",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAListItem",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.304070231",
+            "y": "0.419768935"
+          },
+          {
+            "x": "0.337589785",
+            "y": "0.419768935"
+          },
+          {
+            "x": "0.337589785",
+            "y": "0.439024390"
+          },
+          {
+            "x": "0.304070231",
+            "y": "0.439024390"
+          }
+        ]
+      },
+      "className": "",
+      "title": "22",
+      "desc": "22",
+      "name": "22",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1fswt7j2a2440168352",
+      "destinationState": "none",
+      "enabled": false,
+      "role": "UIAButton",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.985634477",
+            "y": "0.065468549"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.065468549"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.087291399"
+          },
+          {
+            "x": "0.985634477",
+            "y": "0.087291399"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Línea arriba",
+      "desc": "Línea arriba",
+      "name": "Línea arriba",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCcb620e2a42250560226",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.157222666",
+            "y": "0.326059050"
+          },
+          {
+            "x": "0.170790104",
+            "y": "0.326059050"
+          },
+          {
+            "x": "0.170790104",
+            "y": "0.344030809"
+          },
+          {
+            "x": "0.157222666",
+            "y": "0.344030809"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Re Pág",
+      "desc": "Re Pág",
+      "name": "Re Pág",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1wn2hzc2a1866765156",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.035115722",
+            "y": "0.663671374"
+          },
+          {
+            "x": "0.351955307",
+            "y": "0.663671374"
+          },
+          {
+            "x": "0.351955307",
+            "y": "0.712451861"
+          },
+          {
+            "x": "0.035115722",
+            "y": "0.712451861"
+          }
+        ]
+      },
+      "className": "Static",
+      "title": "AaBbYyZz",
+      "desc": "AaBbYyZz",
+      "name": "AaBbYyZz",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1sxckut2931148678952",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.338387869",
+            "y": "0.196405648"
+          },
+          {
+            "x": "0.365522745",
+            "y": "0.196405648"
+          },
+          {
+            "x": "0.365522745",
+            "y": "0.234916560"
+          },
+          {
+            "x": "0.338387869",
+            "y": "0.234916560"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Cerrar",
+      "desc": "Cerrar",
+      "name": "Cerrar",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCy57o0b2911070918177",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.905027933",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.986432562",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.986432562",
+            "y": "0.998716303"
+          },
+          {
+            "x": "0.905027933",
+            "y": "0.998716303"
+          }
+        ]
+      },
+      "className": "",
+      "title": " UTF-8",
+      "desc": " UTF-8",
+      "name": " UTF-8",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCtu0h828e2603114460",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAListItem",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.304070231",
+            "y": "0.400513479"
+          },
+          {
+            "x": "0.337589785",
+            "y": "0.400513479"
+          },
+          {
+            "x": "0.337589785",
+            "y": "0.419768935"
+          },
+          {
+            "x": "0.304070231",
+            "y": "0.419768935"
+          }
+        ]
+      },
+      "className": "",
+      "title": "20",
+      "desc": "20",
+      "name": "20",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1zhhf92a64055685128",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.157222666",
+            "y": "0.354300385"
+          },
+          {
+            "x": "0.170790104",
+            "y": "0.354300385"
+          },
+          {
+            "x": "0.170790104",
+            "y": "0.428754814"
+          },
+          {
+            "x": "0.157222666",
+            "y": "0.428754814"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Av Pág",
+      "desc": "Av Pág",
+      "name": "Av Pág",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC4lckk82b2795470492",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAEdit",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.187549880",
+            "y": "0.277278562"
+          },
+          {
+            "x": "0.286512370",
+            "y": "0.277278562"
+          },
+          {
+            "x": "0.286512370",
+            "y": "0.297817715"
+          },
+          {
+            "x": "0.187549880",
+            "y": "0.297817715"
+          }
+        ]
+      },
+      "className": "Edit",
+      "title": "Estilo de fuente:",
+      "desc": "Estilo de fuente:",
+      "name": "Estilo de fuente:",
+      "toolTipText": "",
+      "valuePattern": "Normal"
+    },
+    {
+      "widgetId": "WCCyxext62a1472170699",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuBar",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000798085",
+            "y": "0.010269576"
+          },
+          {
+            "x": "0.018355946",
+            "y": "0.010269576"
+          },
+          {
+            "x": "0.018355946",
+            "y": "0.038510911"
+          },
+          {
+            "x": "0.000798085",
+            "y": "0.038510911"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Sistema",
+      "desc": "Sistema",
+      "name": "Sistema",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCyjl7ak29c4206736153",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAListItem",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.186751796",
+            "y": "0.377406932"
+          },
+          {
+            "x": "0.273743017",
+            "y": "0.377406932"
+          },
+          {
+            "x": "0.273743017",
+            "y": "0.401797176"
+          },
+          {
+            "x": "0.186751796",
+            "y": "0.401797176"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Cursiva negrita",
+      "desc": "Cursiva negrita",
+      "name": "Cursiva negrita",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCgfykao29b1788830116",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuBar",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000798085",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.064184852"
+          },
+          {
+            "x": "0.000798085",
+            "y": "0.064184852"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Aplicación",
+      "desc": "Aplicación",
+      "name": "Aplicación",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1g5ph0x29f3488576446",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAListItem",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.036711891",
+            "y": "0.377406932"
+          },
+          {
+            "x": "0.157222666",
+            "y": "0.377406932"
+          },
+          {
+            "x": "0.157222666",
+            "y": "0.401797176"
+          },
+          {
+            "x": "0.036711891",
+            "y": "0.401797176"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Copperplate Gothic",
+      "desc": "Copperplate Gothic",
+      "name": "Copperplate Gothic",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC19h5l3q29a1074599305",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAWindow",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.019154030",
+            "y": "0.195121951"
+          },
+          {
+            "x": "0.371109338",
+            "y": "0.195121951"
+          },
+          {
+            "x": "0.371109338",
+            "y": "0.808729140"
+          },
+          {
+            "x": "0.019154030",
+            "y": "0.808729140"
+          }
+        ]
+      },
+      "className": "#32770",
+      "title": "Fuente",
+      "desc": "Fuente",
+      "name": "Fuente",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCh10e3e2ad1660133863",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAPane",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.035115722",
+            "y": "0.713735558"
+          },
+          {
+            "x": "0.351955307",
+            "y": "0.713735558"
+          },
+          {
+            "x": "0.351955307",
+            "y": "0.735558408"
+          },
+          {
+            "x": "0.035115722",
+            "y": "0.735558408"
+          }
+        ]
+      },
+      "className": "SysLink",
+      "title": "Mostrar más fuentes",
+      "desc": "Mostrar más fuentes",
+      "name": "Mostrar más fuentes",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC19hmchi2922857849346",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.888268156",
+            "y": "0.001283697"
+          },
+          {
+            "x": "0.925778132",
+            "y": "0.001283697"
+          },
+          {
+            "x": "0.925778132",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.888268156",
+            "y": "0.039794608"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Minimizar",
+      "desc": "Minimizar",
+      "name": "Minimizar",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCmaz0lm2a51765402810",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.035115722",
+            "y": "0.251604621"
+          },
+          {
+            "x": "0.172386273",
+            "y": "0.251604621"
+          },
+          {
+            "x": "0.172386273",
+            "y": "0.273427471"
+          },
+          {
+            "x": "0.035115722",
+            "y": "0.273427471"
+          }
+        ]
+      },
+      "className": "Static",
+      "title": "Fuente:",
+      "desc": "Fuente:",
+      "name": "Fuente:",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1smq9hi2aa2368056976",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.339984038",
+            "y": "0.609756098"
+          },
+          {
+            "x": "0.351955307",
+            "y": "0.609756098"
+          },
+          {
+            "x": "0.351955307",
+            "y": "0.635430039"
+          },
+          {
+            "x": "0.339984038",
+            "y": "0.635430039"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Abrir",
+      "desc": "Abrir",
+      "name": "Abrir",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCo65wt32931633389953",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAListItem",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.036711891",
+            "y": "0.401797176"
+          },
+          {
+            "x": "0.157222666",
+            "y": "0.401797176"
+          },
+          {
+            "x": "0.157222666",
+            "y": "0.426187420"
+          },
+          {
+            "x": "0.036711891",
+            "y": "0.426187420"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Corbel",
+      "desc": "Corbel",
+      "name": "Corbel",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCtd2w6u29f1861422437",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAGroup",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.185155626",
+            "y": "0.468549422"
+          },
+          {
+            "x": "0.352753392",
+            "y": "0.468549422"
+          },
+          {
+            "x": "0.352753392",
+            "y": "0.572528883"
+          },
+          {
+            "x": "0.185155626",
+            "y": "0.572528883"
+          }
+        ]
+      },
+      "className": "Button",
+      "title": "Muestra",
+      "desc": "Muestra",
+      "name": "Muestra",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC16emg4k2a71158921167",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.337589785",
+            "y": "0.417201540"
+          },
+          {
+            "x": "0.351157223",
+            "y": "0.417201540"
+          },
+          {
+            "x": "0.351157223",
+            "y": "0.439024390"
+          },
+          {
+            "x": "0.337589785",
+            "y": "0.439024390"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Línea abajo",
+      "desc": "Línea abajo",
+      "name": "Línea abajo",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1oba7zw2971341850240",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAListItem",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.036711891",
+            "y": "0.328626444"
+          },
+          {
+            "x": "0.157222666",
+            "y": "0.328626444"
+          },
+          {
+            "x": "0.157222666",
+            "y": "0.353016688"
+          },
+          {
+            "x": "0.036711891",
+            "y": "0.353016688"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Constantia",
+      "desc": "Constantia",
+      "name": "Constantia",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCj1pmt12a72978547133",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.157222666",
+            "y": "0.428754814"
+          },
+          {
+            "x": "0.170790104",
+            "y": "0.428754814"
+          },
+          {
+            "x": "0.170790104",
+            "y": "0.450577664"
+          },
+          {
+            "x": "0.157222666",
+            "y": "0.450577664"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Línea abajo",
+      "desc": "Línea abajo",
+      "name": "Línea abajo",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1cd6e4w2943543046393",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAListItem",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.186751796",
+            "y": "0.328626444"
+          },
+          {
+            "x": "0.273743017",
+            "y": "0.328626444"
+          },
+          {
+            "x": "0.273743017",
+            "y": "0.353016688"
+          },
+          {
+            "x": "0.186751796",
+            "y": "0.353016688"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Cursiva",
+      "desc": "Cursiva",
+      "name": "Cursiva",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1vgt9ax2922613899277",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuItem",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000798085",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.044692737",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.044692737",
+            "y": "0.064184852"
+          },
+          {
+            "x": "0.000798085",
+            "y": "0.064184852"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Archivo",
+      "desc": "Archivo",
+      "name": "Archivo",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC13qgzm42a82685964731",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAThumb",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.157222666",
+            "y": "0.344030809"
+          },
+          {
+            "x": "0.170790104",
+            "y": "0.344030809"
+          },
+          {
+            "x": "0.170790104",
+            "y": "0.354300385"
+          },
+          {
+            "x": "0.157222666",
+            "y": "0.354300385"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Posición",
+      "desc": "Posición",
+      "name": "Posición",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCthibgh2a82418374054",
+      "destinationState": "none",
+      "enabled": false,
+      "role": "UIAButton",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.273743017",
+            "y": "0.428754814"
+          },
+          {
+            "x": "0.287310455",
+            "y": "0.428754814"
+          },
+          {
+            "x": "0.287310455",
+            "y": "0.450577664"
+          },
+          {
+            "x": "0.273743017",
+            "y": "0.450577664"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Línea abajo",
+      "desc": "Línea abajo",
+      "name": "Línea abajo",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCChdvcs028a2390236104",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000798085",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.656025539",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.656025539",
+            "y": "0.998716303"
+          },
+          {
+            "x": "0.000798085",
+            "y": "0.998716303"
+          }
+        ]
+      },
+      "className": "",
+      "title": "",
+      "desc": "",
+      "name": "",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCz4o4m2a64212295600",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.337589785",
+            "y": "0.382541720"
+          },
+          {
+            "x": "0.351157223",
+            "y": "0.382541720"
+          },
+          {
+            "x": "0.351157223",
+            "y": "0.417201540"
+          },
+          {
+            "x": "0.337589785",
+            "y": "0.417201540"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Av Pág",
+      "desc": "Av Pág",
+      "name": "Av Pág",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC11nnzyr2922789749356",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuItem",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.086991221",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.134078212",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.134078212",
+            "y": "0.064184852"
+          },
+          {
+            "x": "0.086991221",
+            "y": "0.064184852"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Formato",
+      "desc": "Formato",
+      "name": "Formato",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCzo7xvt28e465161960",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuItem",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.134078212",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.158020750",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.158020750",
+            "y": "0.064184852"
+          },
+          {
+            "x": "0.134078212",
+            "y": "0.064184852"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Ver",
+      "desc": "Ver",
+      "name": "Ver",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCfeqm0o2a93350593658",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAThumb",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.337589785",
+            "y": "0.342747112"
+          },
+          {
+            "x": "0.351157223",
+            "y": "0.342747112"
+          },
+          {
+            "x": "0.351157223",
+            "y": "0.382541720"
+          },
+          {
+            "x": "0.337589785",
+            "y": "0.382541720"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Posición",
+      "desc": "Posición",
+      "name": "Posición",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCa94bir28f3186730929",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.962490024",
+            "y": "0.001283697"
+          },
+          {
+            "x": "1.000000000",
+            "y": "0.001283697"
+          },
+          {
+            "x": "1.000000000",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.962490024",
+            "y": "0.039794608"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Cerrar",
+      "desc": "Cerrar",
+      "name": "Cerrar",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCnm9a2k2a92298489576",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAEdit",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.037509976",
+            "y": "0.277278562"
+          },
+          {
+            "x": "0.169992019",
+            "y": "0.277278562"
+          },
+          {
+            "x": "0.169992019",
+            "y": "0.297817715"
+          },
+          {
+            "x": "0.037509976",
+            "y": "0.297817715"
+          }
+        ]
+      },
+      "className": "Edit",
+      "title": "Fuente:",
+      "desc": "Fuente:",
+      "name": "Fuente:",
+      "toolTipText": "",
+      "valuePattern": "Consolas"
+    },
+    {
+      "widgetId": "WCC12djccc2b31209020321",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAComboBox",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.185155626",
+            "y": "0.273427471"
+          },
+          {
+            "x": "0.288906624",
+            "y": "0.273427471"
+          },
+          {
+            "x": "0.288906624",
+            "y": "0.456996149"
+          },
+          {
+            "x": "0.185155626",
+            "y": "0.456996149"
+          }
+        ]
+      },
+      "className": "ComboBox",
+      "title": "Estilo de fuente:",
+      "desc": "Estilo de fuente:",
+      "name": "Estilo de fuente:",
+      "toolTipText": "",
+      "valuePattern": "Normal"
+    },
+    {
+      "widgetId": "WCC1ja81uo2af1205230686",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.185155626",
+            "y": "0.251604621"
+          },
+          {
+            "x": "0.288906624",
+            "y": "0.251604621"
+          },
+          {
+            "x": "0.288906624",
+            "y": "0.273427471"
+          },
+          {
+            "x": "0.185155626",
+            "y": "0.273427471"
+          }
+        ]
+      },
+      "className": "Static",
+      "title": "Estilo de fuente:",
+      "desc": "Estilo de fuente:",
+      "name": "Estilo de fuente:",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1o6ifal28e2661690585",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAListItem",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.304070231",
+            "y": "0.381258023"
+          },
+          {
+            "x": "0.337589785",
+            "y": "0.381258023"
+          },
+          {
+            "x": "0.337589785",
+            "y": "0.400513479"
+          },
+          {
+            "x": "0.304070231",
+            "y": "0.400513479"
+          }
+        ]
+      },
+      "className": "",
+      "title": "18",
+      "desc": "18",
+      "name": "18",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1n719qx29b616892007",
+      "destinationState": "SCC1x9hbzb2022697922901",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.222665603",
+            "y": "0.752246470"
+          },
+          {
+            "x": "0.285714286",
+            "y": "0.752246470"
+          },
+          {
+            "x": "0.285714286",
+            "y": "0.785622593"
+          },
+          {
+            "x": "0.222665603",
+            "y": "0.785622593"
+          }
+        ]
+      },
+      "className": "Button",
+      "title": "Aceptar",
+      "desc": "Aceptar",
+      "name": "Aceptar",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1jfo9hg2ab1273358814",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAComboBox",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.035115722",
+            "y": "0.273427471"
+          },
+          {
+            "x": "0.172386273",
+            "y": "0.273427471"
+          },
+          {
+            "x": "0.172386273",
+            "y": "0.453145058"
+          },
+          {
+            "x": "0.035115722",
+            "y": "0.453145058"
+          }
+        ]
+      },
+      "className": "ComboBox",
+      "title": "Fuente:",
+      "desc": "Fuente:",
+      "name": "Fuente:",
+      "toolTipText": "",
+      "valuePattern": "Consolas"
+    },
+    {
+      "widgetId": "WCC1djgcab2a53538738500",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.185155626",
+            "y": "0.584082157"
+          },
+          {
+            "x": "0.350359138",
+            "y": "0.584082157"
+          },
+          {
+            "x": "0.350359138",
+            "y": "0.605905006"
+          },
+          {
+            "x": "0.185155626",
+            "y": "0.605905006"
+          }
+        ]
+      },
+      "className": "Static",
+      "title": "Script:",
+      "desc": "Script:",
+      "name": "Script:",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCkn7n2k2ac4234221252",
+      "destinationState": "none",
+      "enabled": false,
+      "role": "UIAScrollBar",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.985634477",
+            "y": "0.065468549"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.065468549"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.962772786"
+          },
+          {
+            "x": "0.985634477",
+            "y": "0.962772786"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Vertical",
+      "desc": "Vertical",
+      "name": "Vertical",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1baqutv298355544296",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.657621708",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.767757382",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.767757382",
+            "y": "0.998716303"
+          },
+          {
+            "x": "0.657621708",
+            "y": "0.998716303"
+          }
+        ]
+      },
+      "className": "",
+      "title": "  Ln 1, Col 1",
+      "desc": "  Ln 1, Col 1",
+      "name": "  Ln 1, Col 1",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1xpk8cf2923715617921",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuItem",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.044692737",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.086991221",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.086991221",
+            "y": "0.064184852"
+          },
+          {
+            "x": "0.044692737",
+            "y": "0.064184852"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Edición",
+      "desc": "Edición",
+      "name": "Edición",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCj71q392973358068947",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuItem",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000798085",
+            "y": "0.010269576"
+          },
+          {
+            "x": "0.018355946",
+            "y": "0.010269576"
+          },
+          {
+            "x": "0.018355946",
+            "y": "0.038510911"
+          },
+          {
+            "x": "0.000798085",
+            "y": "0.038510911"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Sistema",
+      "desc": "Sistema",
+      "name": "Sistema",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1fzn3al2a31463427232",
+      "destinationState": "none",
+      "enabled": false,
+      "role": "UIAButton",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.985634477",
+            "y": "0.940949936"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.940949936"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.962772786"
+          },
+          {
+            "x": "0.985634477",
+            "y": "0.962772786"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Línea abajo",
+      "desc": "Línea abajo",
+      "name": "Línea abajo",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC12562m728d6498057",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIATitleBar",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.025538707",
+            "y": "0.198973042"
+          },
+          {
+            "x": "0.364724661",
+            "y": "0.198973042"
+          },
+          {
+            "x": "0.364724661",
+            "y": "0.234916560"
+          },
+          {
+            "x": "0.025538707",
+            "y": "0.234916560"
+          }
+        ]
+      },
+      "className": "",
+      "title": "",
+      "desc": "",
+      "name": "",
+      "toolTipText": "",
+      "valuePattern": "Fuente"
+    },
+    {
+      "widgetId": "WCC1vb2e5e2a4724628598",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.337589785",
+            "y": "0.326059050"
+          },
+          {
+            "x": "0.351157223",
+            "y": "0.326059050"
+          },
+          {
+            "x": "0.351157223",
+            "y": "0.342747112"
+          },
+          {
+            "x": "0.337589785",
+            "y": "0.342747112"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Re Pág",
+      "desc": "Re Pág",
+      "name": "Re Pág",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCtya4wm2a32580137486",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAEdit",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.304868316",
+            "y": "0.277278562"
+          },
+          {
+            "x": "0.350359138",
+            "y": "0.277278562"
+          },
+          {
+            "x": "0.350359138",
+            "y": "0.297817715"
+          },
+          {
+            "x": "0.304868316",
+            "y": "0.297817715"
+          }
+        ]
+      },
+      "className": "Edit",
+      "title": "Tamaño:",
+      "desc": "Tamaño:",
+      "name": "Tamaño:",
+      "toolTipText": "",
+      "valuePattern": "11"
+    },
+    {
+      "widgetId": "WCC1n23wp529c2612741248",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIATitleBar",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.013567438",
+            "y": "0.003851091"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.003851091"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.013567438",
+            "y": "0.039794608"
+          }
+        ]
+      },
+      "className": "",
+      "title": "",
+      "desc": "",
+      "name": "",
+      "toolTipText": "",
+      "valuePattern": "Sin título: Bloc de notas"
+    },
+    {
+      "widgetId": "WCCr28hhm2b1779799253",
+      "destinationState": "none",
+      "enabled": false,
+      "role": "UIAScrollBar",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.273743017",
+            "y": "0.304236200"
+          },
+          {
+            "x": "0.287310455",
+            "y": "0.304236200"
+          },
+          {
+            "x": "0.287310455",
+            "y": "0.450577664"
+          },
+          {
+            "x": "0.273743017",
+            "y": "0.450577664"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Vertical",
+      "desc": "Vertical",
+      "name": "Vertical",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1kn79np29c3114946382",
+      "destinationState": "SCC1x9hbzb2022697922901",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.291300878",
+            "y": "0.752246470"
+          },
+          {
+            "x": "0.354349561",
+            "y": "0.752246470"
+          },
+          {
+            "x": "0.354349561",
+            "y": "0.785622593"
+          },
+          {
+            "x": "0.291300878",
+            "y": "0.785622593"
+          }
+        ]
+      },
+      "className": "Button",
+      "title": "Cancelar",
+      "desc": "Cancelar",
+      "name": "Cancelar",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1466wwm2931894628533",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAListItem",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.036711891",
+            "y": "0.353016688"
+          },
+          {
+            "x": "0.157222666",
+            "y": "0.353016688"
+          },
+          {
+            "x": "0.157222666",
+            "y": "0.377406932"
+          },
+          {
+            "x": "0.036711891",
+            "y": "0.377406932"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Cooper",
+      "desc": "Cooper",
+      "name": "Cooper",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCh1jy6e29a571230103",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.809257781",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.903431764",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.903431764",
+            "y": "0.998716303"
+          },
+          {
+            "x": "0.809257781",
+            "y": "0.998716303"
+          }
+        ]
+      },
+      "className": "",
+      "title": " Windows (CRLF)",
+      "desc": " Windows (CRLF)",
+      "name": " Windows (CRLF)",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1hw9huf2c5199593120",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAList",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.035115722",
+            "y": "0.301668806"
+          },
+          {
+            "x": "0.172386273",
+            "y": "0.301668806"
+          },
+          {
+            "x": "0.172386273",
+            "y": "0.453145058"
+          },
+          {
+            "x": "0.035115722",
+            "y": "0.453145058"
+          }
+        ]
+      },
+      "className": "ComboLBox",
+      "title": "Fuente:",
+      "desc": "Fuente:",
+      "name": "Fuente:",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC19srgjv2a62086484969",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.337589785",
+            "y": "0.304236200"
+          },
+          {
+            "x": "0.351157223",
+            "y": "0.304236200"
+          },
+          {
+            "x": "0.351157223",
+            "y": "0.326059050"
+          },
+          {
+            "x": "0.337589785",
+            "y": "0.326059050"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Línea arriba",
+      "desc": "Línea arriba",
+      "name": "Línea arriba",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCk6jawf2a43761476535",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.302474062",
+            "y": "0.251604621"
+          },
+          {
+            "x": "0.352753392",
+            "y": "0.251604621"
+          },
+          {
+            "x": "0.352753392",
+            "y": "0.273427471"
+          },
+          {
+            "x": "0.302474062",
+            "y": "0.273427471"
+          }
+        ]
+      },
+      "className": "Static",
+      "title": "Tamaño:",
+      "desc": "Tamaño:",
+      "name": "Tamaño:",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1cz611k2901118080266",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuItem",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.158020750",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.196328811",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.196328811",
+            "y": "0.064184852"
+          },
+          {
+            "x": "0.158020750",
+            "y": "0.064184852"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Ayuda",
+      "desc": "Ayuda",
+      "name": "Ayuda",
+      "toolTipText": "",
+      "valuePattern": ""
+    }
+  ],
+  "screenshotPath": "./output\\2021-03-29_12h46m06s_notepad_data_1\\scrshots\\2021-03-29_12h46m55s_notepad_data_1_sequence_1\\SCCpn9kxv6df3492714288.png",
+  "screenshotId": "SCCpn9kxv6df3492714288"
+}

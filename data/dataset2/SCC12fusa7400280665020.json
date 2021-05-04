@@ -1,0 +1,1524 @@
+{
+  "widgetJsonObjects": [
+    {
+      "widgetId": "WCC1tinism2af3038251503",
+      "destinationState": "none",
+      "enabled": false,
+      "role": "UIAWindow",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000000000",
+            "y": "0.000000000"
+          },
+          {
+            "x": "1.000000000",
+            "y": "0.000000000"
+          },
+          {
+            "x": "1.000000000",
+            "y": "1.000000000"
+          },
+          {
+            "x": "0.000000000",
+            "y": "1.000000000"
+          }
+        ]
+      },
+      "className": "Notepad",
+      "title": "Sin título: Bloc de notas",
+      "desc": "Sin título: Bloc de notas",
+      "name": "Sin título: Bloc de notas",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1cz611k2901118080266",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuItem",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.158020750",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.196328811",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.196328811",
+            "y": "0.064184852"
+          },
+          {
+            "x": "0.158020750",
+            "y": "0.064184852"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Ayuda",
+      "desc": "Ayuda",
+      "name": "Ayuda",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC5ynjpu2b12204907316",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAStatusBar",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000798085",
+            "y": "0.962772786"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.962772786"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.998716303"
+          },
+          {
+            "x": "0.000798085",
+            "y": "0.998716303"
+          }
+        ]
+      },
+      "className": "msctls_statusbar32",
+      "title": "Barra de estado",
+      "desc": "Barra de estado",
+      "name": "Barra de estado",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1n23wp529c2612741248",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIATitleBar",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.013567438",
+            "y": "0.003851091"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.003851091"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.013567438",
+            "y": "0.039794608"
+          }
+        ]
+      },
+      "className": "",
+      "title": "",
+      "desc": "",
+      "name": "",
+      "toolTipText": "",
+      "valuePattern": "Sin título: Bloc de notas"
+    },
+    {
+      "widgetId": "WCC11nnzyr2922789749356",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuItem",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.086991221",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.134078212",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.134078212",
+            "y": "0.064184852"
+          },
+          {
+            "x": "0.086991221",
+            "y": "0.064184852"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Formato",
+      "desc": "Formato",
+      "name": "Formato",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1iljj7a2a73212245522",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.577015164",
+            "y": "0.283697047"
+          },
+          {
+            "x": "0.590582602",
+            "y": "0.283697047"
+          },
+          {
+            "x": "0.590582602",
+            "y": "0.668806162"
+          },
+          {
+            "x": "0.577015164",
+            "y": "0.668806162"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Av Pág",
+      "desc": "Av Pág",
+      "name": "Av Pág",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCoof0d82c53341039288",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.073423783",
+            "y": "0.296534018"
+          },
+          {
+            "x": "0.391061453",
+            "y": "0.296534018"
+          },
+          {
+            "x": "0.391061453",
+            "y": "0.317073171"
+          },
+          {
+            "x": "0.073423783",
+            "y": "0.317073171"
+          }
+        ]
+      },
+      "className": "Static",
+      "title": "Versión 1909 (compilación de SO 18363.1440)",
+      "desc": "Versión 1909 (compilación de SO 18363.1440)",
+      "name": "Versión 1909 (compilación de SO 18363.1440)",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCjqp02n28f4167584310",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.769353551",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.807661612",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.807661612",
+            "y": "0.998716303"
+          },
+          {
+            "x": "0.769353551",
+            "y": "0.998716303"
+          }
+        ]
+      },
+      "className": "",
+      "title": " 100%",
+      "desc": " 100%",
+      "name": " 100%",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCgfykao29b1788830116",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuBar",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000798085",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.064184852"
+          },
+          {
+            "x": "0.000798085",
+            "y": "0.064184852"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Aplicación",
+      "desc": "Aplicación",
+      "name": "Aplicación",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1xpk8cf2923715617921",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuItem",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.044692737",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.086991221",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.086991221",
+            "y": "0.064184852"
+          },
+          {
+            "x": "0.044692737",
+            "y": "0.064184852"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Edición",
+      "desc": "Edición",
+      "name": "Edición",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC19hmchi2922857849346",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.888268156",
+            "y": "0.001283697"
+          },
+          {
+            "x": "0.925778132",
+            "y": "0.001283697"
+          },
+          {
+            "x": "0.925778132",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.888268156",
+            "y": "0.039794608"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Minimizar",
+      "desc": "Minimizar",
+      "name": "Minimizar",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1uqhc7x29a2482811230",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.330407023",
+            "y": "0.607188703"
+          },
+          {
+            "x": "0.390263368",
+            "y": "0.607188703"
+          },
+          {
+            "x": "0.390263368",
+            "y": "0.636713736"
+          },
+          {
+            "x": "0.330407023",
+            "y": "0.636713736"
+          }
+        ]
+      },
+      "className": "Button",
+      "title": "Aceptar",
+      "desc": "Aceptar",
+      "name": "Aceptar",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCj71q392973358068947",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuItem",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000798085",
+            "y": "0.010269576"
+          },
+          {
+            "x": "0.018355946",
+            "y": "0.010269576"
+          },
+          {
+            "x": "0.018355946",
+            "y": "0.038510911"
+          },
+          {
+            "x": "0.000798085",
+            "y": "0.038510911"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Sistema",
+      "desc": "Sistema",
+      "name": "Sistema",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1vgt9ax2922613899277",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuItem",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000798085",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.044692737",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.044692737",
+            "y": "0.064184852"
+          },
+          {
+            "x": "0.000798085",
+            "y": "0.064184852"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Archivo",
+      "desc": "Archivo",
+      "name": "Archivo",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1y01mk2953482972556",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.573822825",
+            "y": "0.191270860"
+          },
+          {
+            "x": "0.600957702",
+            "y": "0.191270860"
+          },
+          {
+            "x": "0.600957702",
+            "y": "0.229781772"
+          },
+          {
+            "x": "0.573822825",
+            "y": "0.229781772"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Cerrar",
+      "desc": "Cerrar",
+      "name": "Cerrar",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCgt6pph2993050665853",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAImage",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.039904230",
+            "y": "0.275994865"
+          },
+          {
+            "x": "0.065442937",
+            "y": "0.275994865"
+          },
+          {
+            "x": "0.065442937",
+            "y": "0.318356868"
+          },
+          {
+            "x": "0.039904230",
+            "y": "0.318356868"
+          }
+        ]
+      },
+      "className": "Static",
+      "title": "",
+      "desc": "",
+      "name": "",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC128d5wr37f1230854608",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.073423783",
+            "y": "0.359435173"
+          },
+          {
+            "x": "0.360734238",
+            "y": "0.359435173"
+          },
+          {
+            "x": "0.360734238",
+            "y": "0.442875481"
+          },
+          {
+            "x": "0.073423783",
+            "y": "0.442875481"
+          }
+        ]
+      },
+      "className": "Static",
+      "title": "El sistema operativo Windows 10 Education y su interfaz de usuario están protegidos por las leyes de marca comercial y otros derechos de propiedad intelectual actuales y pendientes en los Estados Unidos y otros países o regiones.",
+      "desc": "El sistema operativo Windows 10 Education y su interfaz de usuario están protegidos por las leyes de marca comercial y otros derechos de propiedad intelectual actuales y pendientes en los Estados Unidos y otros países o regiones.",
+      "name": "El sistema operativo Windows 10 Education y su interfaz de usuario están protegidos por las leyes de marca comercial y otros derechos de propiedad intelectual actuales y pendientes en los Estados Unidos y otros países o regiones.",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1baqutv298355544296",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.657621708",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.767757382",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.767757382",
+            "y": "0.998716303"
+          },
+          {
+            "x": "0.657621708",
+            "y": "0.998716303"
+          }
+        ]
+      },
+      "className": "",
+      "title": "  Ln 1, Col 1",
+      "desc": "  Ln 1, Col 1",
+      "name": "  Ln 1, Col 1",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCywqpfs2a1906146189",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAEdit",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000798085",
+            "y": "0.065468549"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.065468549"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.962772786"
+          },
+          {
+            "x": "0.000798085",
+            "y": "0.962772786"
+          }
+        ]
+      },
+      "className": "Edit",
+      "title": "Editor de texto",
+      "desc": "Editor de texto",
+      "name": "Editor de texto",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCChdvcs028a2390236104",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000798085",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.656025539",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.656025539",
+            "y": "0.998716303"
+          },
+          {
+            "x": "0.000798085",
+            "y": "0.998716303"
+          }
+        ]
+      },
+      "className": "",
+      "title": "",
+      "desc": "",
+      "name": "",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1fzn3al2a31463427232",
+      "destinationState": "none",
+      "enabled": false,
+      "role": "UIAButton",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.985634477",
+            "y": "0.940949936"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.940949936"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.962772786"
+          },
+          {
+            "x": "0.985634477",
+            "y": "0.962772786"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Línea abajo",
+      "desc": "Línea abajo",
+      "name": "Línea abajo",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCa94bir28f3186730929",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.962490024",
+            "y": "0.001283697"
+          },
+          {
+            "x": "1.000000000",
+            "y": "0.001283697"
+          },
+          {
+            "x": "1.000000000",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.962490024",
+            "y": "0.039794608"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Cerrar",
+      "desc": "Cerrar",
+      "name": "Cerrar",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCru1aj92a82465722090",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAThumb",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.577015164",
+            "y": "0.273427471"
+          },
+          {
+            "x": "0.590582602",
+            "y": "0.273427471"
+          },
+          {
+            "x": "0.590582602",
+            "y": "0.283697047"
+          },
+          {
+            "x": "0.577015164",
+            "y": "0.283697047"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Posición",
+      "desc": "Posición",
+      "name": "Posición",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC185nyxn2ab4156201505",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.073423783",
+            "y": "0.275994865"
+          },
+          {
+            "x": "0.348762969",
+            "y": "0.275994865"
+          },
+          {
+            "x": "0.348762969",
+            "y": "0.296534018"
+          },
+          {
+            "x": "0.073423783",
+            "y": "0.296534018"
+          }
+        ]
+      },
+      "className": "Static",
+      "title": "Microsoft Windows",
+      "desc": "Microsoft Windows",
+      "name": "Microsoft Windows",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCkn7n2k2ac4234221252",
+      "destinationState": "none",
+      "enabled": false,
+      "role": "UIAScrollBar",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.985634477",
+            "y": "0.065468549"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.065468549"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.962772786"
+          },
+          {
+            "x": "0.985634477",
+            "y": "0.962772786"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Vertical",
+      "desc": "Vertical",
+      "name": "Vertical",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1t7n9ev2923728311004",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.925778132",
+            "y": "0.001283697"
+          },
+          {
+            "x": "0.962490024",
+            "y": "0.001283697"
+          },
+          {
+            "x": "0.962490024",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.925778132",
+            "y": "0.039794608"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Maximizar",
+      "desc": "Maximizar",
+      "name": "Maximizar",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCt3wrqw2932772055340",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.370311253",
+            "y": "0.109114249"
+          },
+          {
+            "x": "0.397446129",
+            "y": "0.109114249"
+          },
+          {
+            "x": "0.397446129",
+            "y": "0.147625160"
+          },
+          {
+            "x": "0.370311253",
+            "y": "0.147625160"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Cerrar",
+      "desc": "Cerrar",
+      "name": "Cerrar",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCyxext62a1472170699",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuBar",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000798085",
+            "y": "0.010269576"
+          },
+          {
+            "x": "0.018355946",
+            "y": "0.010269576"
+          },
+          {
+            "x": "0.018355946",
+            "y": "0.038510911"
+          },
+          {
+            "x": "0.000798085",
+            "y": "0.038510911"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Sistema",
+      "desc": "Sistema",
+      "name": "Sistema",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1qclqrz2d5891159989",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.073423783",
+            "y": "0.317073171"
+          },
+          {
+            "x": "0.360734238",
+            "y": "0.317073171"
+          },
+          {
+            "x": "0.360734238",
+            "y": "0.337612323"
+          },
+          {
+            "x": "0.073423783",
+            "y": "0.337612323"
+          }
+        ]
+      },
+      "className": "Static",
+      "title": "© 2019 Microsoft Corporation. Todos los derechos reservados",
+      "desc": "© 2019 Microsoft Corporation. Todos los derechos reservados",
+      "name": "© 2019 Microsoft Corporation. Todos los derechos reservados",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1f0p4z82a81983031319",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.085395052",
+            "y": "0.526315789"
+          },
+          {
+            "x": "0.336791700",
+            "y": "0.526315789"
+          },
+          {
+            "x": "0.336791700",
+            "y": "0.546854942"
+          },
+          {
+            "x": "0.085395052",
+            "y": "0.546854942"
+          }
+        ]
+      },
+      "className": "Static",
+      "title": "FernandoTESTAR",
+      "desc": "FernandoTESTAR",
+      "name": "FernandoTESTAR",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCzo7xvt28e465161960",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuItem",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.134078212",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.158020750",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.158020750",
+            "y": "0.064184852"
+          },
+          {
+            "x": "0.134078212",
+            "y": "0.064184852"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Ver",
+      "desc": "Ver",
+      "name": "Ver",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1kbhekb29e2433424301",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIATitleBar",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.031125299",
+            "y": "0.111681643"
+          },
+          {
+            "x": "0.396648045",
+            "y": "0.111681643"
+          },
+          {
+            "x": "0.396648045",
+            "y": "0.147625160"
+          },
+          {
+            "x": "0.031125299",
+            "y": "0.147625160"
+          }
+        ]
+      },
+      "className": "",
+      "title": "",
+      "desc": "",
+      "name": "",
+      "toolTipText": "",
+      "valuePattern": "Acerca de Bloc de notas"
+    },
+    {
+      "widgetId": "WCC12kuoqo2a6374653030",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.577015164",
+            "y": "0.251604621"
+          },
+          {
+            "x": "0.590582602",
+            "y": "0.251604621"
+          },
+          {
+            "x": "0.590582602",
+            "y": "0.273427471"
+          },
+          {
+            "x": "0.577015164",
+            "y": "0.273427471"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Línea arriba",
+      "desc": "Línea arriba",
+      "name": "Línea arriba",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCClsas952a7689043261",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.577015164",
+            "y": "0.668806162"
+          },
+          {
+            "x": "0.590582602",
+            "y": "0.668806162"
+          },
+          {
+            "x": "0.590582602",
+            "y": "0.690629012"
+          },
+          {
+            "x": "0.577015164",
+            "y": "0.690629012"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Línea abajo",
+      "desc": "Línea abajo",
+      "name": "Línea abajo",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1yyky142b72831574950",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIATitleBar",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.061452514",
+            "y": "0.193838254"
+          },
+          {
+            "x": "0.600159617",
+            "y": "0.193838254"
+          },
+          {
+            "x": "0.600159617",
+            "y": "0.229781772"
+          },
+          {
+            "x": "0.061452514",
+            "y": "0.229781772"
+          }
+        ]
+      },
+      "className": "",
+      "title": "",
+      "desc": "",
+      "name": "",
+      "toolTipText": "",
+      "valuePattern": "Términos de licencia del software de Microsoft"
+    },
+    {
+      "widgetId": "WCC1k3q4nm3061324775468",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAPane",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.073423783",
+            "y": "0.483953787"
+          },
+          {
+            "x": "0.324820431",
+            "y": "0.483953787"
+          },
+          {
+            "x": "0.324820431",
+            "y": "0.526315789"
+          },
+          {
+            "x": "0.073423783",
+            "y": "0.526315789"
+          }
+        ]
+      },
+      "className": "SysLink",
+      "title": "La licencia de este producto se concede de acuerdo con los Términos de licencia del software de Microsoft a:",
+      "desc": "La licencia de este producto se concede de acuerdo con los Términos de licencia del software de Microsoft a:",
+      "name": "La licencia de este producto se concede de acuerdo con los Términos de licencia del software de Microsoft a:",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1fswt7j2a2440168352",
+      "destinationState": "none",
+      "enabled": false,
+      "role": "UIAButton",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.985634477",
+            "y": "0.065468549"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.065468549"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.087291399"
+          },
+          {
+            "x": "0.985634477",
+            "y": "0.087291399"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Línea arriba",
+      "desc": "Línea arriba",
+      "name": "Línea arriba",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCh1jy6e29a571230103",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.809257781",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.903431764",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.903431764",
+            "y": "0.998716303"
+          },
+          {
+            "x": "0.809257781",
+            "y": "0.998716303"
+          }
+        ]
+      },
+      "className": "",
+      "title": " Windows (CRLF)",
+      "desc": " Windows (CRLF)",
+      "name": " Windows (CRLF)",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1ttugpu2b9542219096",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAHyperLink",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.073423783",
+            "y": "0.500641849"
+          },
+          {
+            "x": "0.249002394",
+            "y": "0.500641849"
+          },
+          {
+            "x": "0.249002394",
+            "y": "0.517329910"
+          },
+          {
+            "x": "0.073423783",
+            "y": "0.517329910"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Términos de licencia del software de Microsoft",
+      "desc": "Términos de licencia del software de Microsoft",
+      "name": "Términos de licencia del software de Microsoft",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC8737w22b024187113",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAScrollBar",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.577015164",
+            "y": "0.251604621"
+          },
+          {
+            "x": "0.590582602",
+            "y": "0.251604621"
+          },
+          {
+            "x": "0.590582602",
+            "y": "0.690629012"
+          },
+          {
+            "x": "0.577015164",
+            "y": "0.690629012"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Vertical",
+      "desc": "Vertical",
+      "name": "Vertical",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCqt8nv62ae1701265323",
+      "destinationState": "none",
+      "enabled": false,
+      "role": "UIAWindow",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.024740623",
+            "y": "0.107830552"
+          },
+          {
+            "x": "0.403032721",
+            "y": "0.107830552"
+          },
+          {
+            "x": "0.403032721",
+            "y": "0.659820282"
+          },
+          {
+            "x": "0.024740623",
+            "y": "0.659820282"
+          }
+        ]
+      },
+      "className": "#32770",
+      "title": "Acerca de Bloc de notas",
+      "desc": "Acerca de Bloc de notas",
+      "name": "Acerca de Bloc de notas",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1wrpeama7f84251708619",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIADocument",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.070231445",
+            "y": "0.249037227"
+          },
+          {
+            "x": "0.592178771",
+            "y": "0.249037227"
+          },
+          {
+            "x": "0.592178771",
+            "y": "0.693196406"
+          },
+          {
+            "x": "0.070231445",
+            "y": "0.693196406"
+          }
+        ]
+      },
+      "className": "RICHEDIT50W",
+      "title": "RichEdit Control",
+      "desc": "RichEdit Control",
+      "name": "RichEdit Control",
+      "toolTipText": "",
+      "valuePattern": "Última actualización en junio de 2018\rTÉRMINOS DE LICENCIA DEL SOFTWARE DE MICROSOFT\rSISTEMA OPERATIVO WINDOWS\rSI VIVE EN (O, SI ES UNA EMPRESA, SI SU DOMICILIO COMERCIAL PRINCIPAL SE ENCUENTRA EN) LOS ESTADOS UNIDOS, LEA LA CLÁUSULA DE ARBITRAJE VINCULANTE Y LA RENUNCIA A LA ACCIÓN DE CLASE DE LA SECCIÓN 10, RELATIVA A LA RESOLUCIÓN DE CONFLICTOS.\rGracias por elegir Microsoft.\rSegún la forma en que obtenga el software de Microsoft, el presente es un contrato de licencia entre (i) usted y el fabricante del dispositivo o el instalador del software que distribuye el software en su dispositivo; o (ii) usted y Microsoft Corporation (o, según donde resida o, en el caso de una empresa, según donde se encuentre su domicilio comercial principal, una de sus filiales) si adquirió el software a un distribuidor. En el caso de dispositivos fabricados por Microsoft o una de sus filiales, Microsoft es el fabricante del dispositivo. En el caso de haber comprado el software directamente a Microsoft, Microsoft es el distribuidor. Tenga en cuenta que si es un cliente de licencia por volumen, el uso que haga de este software está sujeto al contrato de licencia por volumen en lugar de este contrato.\rEn el presente contrato se describen sus derechos y las condiciones de uso del software de Windows. Debe revisar el contrato completo, incluidos los términos de licencia complementarios que acompañan al software y cualquier término vinculado, ya que todos los términos son importantes y en su conjunto conforman este contrato que se aplica a su caso. Puede revisar los términos vinculados si pega la dirección del vínculo (aka.ms/) en la ventana de un explorador.\rAl suscribir el presente contrato o utilizar el software, usted acepta estos términos y consiente la transmisión de determinada información durante la activación y durante el uso que haga del software conforme a la declaración de privacidad descrita en la Sección 3. Si no acepta y respeta estos términos, no podrá utilizar el software ni sus funciones. Puede ponerse en contacto con el fabricante o el instalador del dispositivo, o el distribuidor si adquirió el software de forma directa, para determinar la directiva de devolución y devolver el software o el dispositivo a cambio de un reembolso o un crédito en virtud de dicha directiva. Debe cumplir con esa directiva, que podría exigirle la devolución del software con el dispositivo completo en el que se instaló a cambio de un reembolso o un crédito, si corresponde.\r1.\tInformación general.\ra.\tAplicabilidad. Este contrato se aplica al software de Windows preinstalado en el dispositivo o comprado a un distribuidor y que usted haya instalado, el soporte físico en el que recibió el software (si lo hubiera), cualquier fuente, icono, imagen o archivo de sonido incluidos con el software, así como también cualquier actualización, complemento o servicio de Microsoft para el software, a menos que estos vayan acompañados de otros términos. También se aplica a las aplicaciones de Windows desarrolladas por Microsoft que proporcionan funcionalidades incluidas con Windows y que forman parte de él, como el correo electrónico, los contactos, la música y las fotos. Si este contrato contiene términos relacionados con una característica o un servicio no disponible en el dispositivo, no se aplican tales términos.\rb.\tTérminos adicionales. Es posible que se apliquen términos adicionales de Microsoft y de terceros al uso de determinadas características, aplicaciones y servicios, en función de las capacidades de su dispositivo, de la forma en que está configurado y del uso que usted le da. Le rogamos que los lea atentamente.\r(i)\tAlgunas aplicaciones de Windows proporcionan un punto de acceso a los servicios en línea (o se basan en estos), y a veces el uso de esos servicios se rige por términos y directivas de privacidad independientes, como el Contrato de Servicios de Microsoft que se encuentra en (aka.ms/msa). Puede ver estos términos y directivas en los términos de uso del servicio o en la configuración de la aplicación, según corresponda. Es posible que los servicios no se encuentren disponibles en todas las regiones.\r(ii)\tMicrosoft, el fabricante o instalador del dispositivo pueden incluir aplicaciones adicionales, que estarán sujetas a términos de licencia y políticas de privacidad independientes.\r(iii)\tEl software incluye Adobe Flash Player, que se licencia en virtud de los términos de Adobe Systems Incorporated. Estos se encuentran en (aka.ms/adobeflash). Adobe y Flash son marcas o marcas registradas de Adobe Systems Incorporated en Estados Unidos y/u otros países.\r(iv)\tEl software puede incluir programas de terceros cuya licencia se le otorga en virtud del presente contrato o de sus propios términos. Los términos de licencia, las notificaciones y los reconocimientos de los programas de terceros, si los hubiera, se pueden ver en (aka.ms/thirdpartynotices).\r(v)\tEn la medida en que se incluyan con Windows, Word, Excel, PowerPoint y OneNote cuentan con licencia para su uso personal y no comercial, a menos que tenga derechos de uso comercial en virtud de un contrato independiente.\r2.\tInstalación y Derechos de uso.\ra.\tLicencia. El software se cede bajo licencia y no es objeto de venta. En virtud del presente contrato y siempre y cuando cumpla con todos los términos del mismo, le otorgamos el derecho de instalar y ejecutar una instancia del software en su dispositivo (el dispositivo con licencia), para que lo utilice una persona a la vez. Si utiliza software de Microsoft o de orígenes autorizados para actualizar software que no es original, no convertirá su versión inicial ni la versión actualizada en original y, en ese caso, no dispondrá de una licencia para utilizar el software.\rb.\tDispositivo. En este contrato, ?dispositivo? se refiere a un sistema hardware (ya sea físico o virtual) con un dispositivo de almacenamiento interno capaz de ejecutar el software. Una partición o división (blade) de hardware se considera un dispositivo.\rc.\tRestricciones. El fabricante o instalador del dispositivo y Microsoft se reservan todos los derechos (como los derechos conforme a la ley de propiedad intelectual) no concedidos expresamente en virtud del presente contrato. Por ejemplo, esta licencia no le concede ningún derecho a, y usted no deberá:\r(i)\tutilizar o virtualizar las características del software por separado; \r(ii)\tpublicar, copiar (excepto en el caso de la copia de seguridad permitida), alquilar, arrendar o dar en préstamo el software; \r(iii)\ttransmitir el software (excepto en los casos permitidos por este contrato); \r(iv)\teludir las restricciones o limitaciones técnicas del software; \r(v)\tutilizar el software como software de servidor (para hospedaje comercial), poner el software a disposición de varios usuarios mediante una red para que lo utilicen de forma simultánea, instalar el software en un servidor y permitir que los usuarios accedan a él de forma remota ni instalar el software en un dispositivo para uso exclusivo de usuarios remotos;\r(vi)\tutilizar técnicas de ingeniería inversa, descompilar ni desensamblar el software o intentar hacerlo, excepto y solo en la medida en que la restricción anterior (a) esté permitida por la legislación aplicable; (b) este permitida por los términos de licencia que rigen el uso de componentes de código abierto que pueden incluirse con el software; o (c) sea necesaria para depurar cambios en cualquier biblioteca licenciada en virtud de la licencia GNU Lesser General Public License que se incluye y vincula mediante el software; y\r(vii)\tal utilizar características basadas en Internet, no podrá utilizarlas de forma tal que pueda interferir con el uso que otras personas hagan de ellas o tratar de utilizar o acceder a algún servicio, dato, cuenta o red sin autorización.\rd.\tEscenarios de varios usos.\r(i)\tVarias versiones. Si al adquirir el software, se proporciona con varias versiones (por ejemplo, de 32 bits y 64 bits), solo puede instalar y activar una de estas versiones a la vez.\r(ii)\tVarias conexiones o conexiones agrupadas. El hardware o software que utiliza para realizar conexiones agrupadas o multiplexadas, o reducir el número de dispositivos o usuarios que obtienen acceso o utilizan el software, no reducen el número de licencias que necesita. Solo puede utilizar dicho hardware o software si tiene una licencia para cada instancia del software que utiliza.\r(iii)\tConexiones del dispositivo. Puede permitir que un máximo de 20 dispositivos accedan al software instalado en el dispositivo bajo licencia para utilizar las siguientes características del software: servicios de archivo, servicios de impresión, Internet Information Services y servicios de telefonía y conexión compartida a Internet en el dispositivo con licencia. Puede autorizar el acceso de cualquier número de dispositivos al software del dispositivo bajo licencia para sincronizar los datos entre dispositivos. Sin embargo, lo que se expone en esta sección no implica que usted tenga derecho a instalar el software o a utilizar la función principal del software (con la salvedad de las características indicadas en esta sección) en alguno de estos otros dispositivos.\r(iv)\tUso en un entorno virtualizado. Esta licencia le autoriza a instalar una sola instancia del software para su uso en un solo dispositivo, que puede ser físico o virtual. Si desea utilizar el software en más de un dispositivo virtual, debe obtener una licencia independiente para cada instancia.\r(v)\tAcceso remoto. Una vez cada 90 días puede designar como Usuario con licencia a un usuario único que utilice físicamente el dispositivo con licencia. El usuario con licencia puede acceder al dispositivo bajo licencia desde otro dispositivo mediante el uso de tecnologías de acceso remoto. Otros usuarios, en momentos diferentes, pueden acceder al dispositivo con licencia desde otro dispositivo mediante tecnologías de acceso remoto, pero solo en dispositivos que tengan una licencia independiente para ejecutar la misma edición de este software o posterior.\r(vi)\tAsistencia remota. Puede utilizar tecnologías de asistencia remota para compartir una sesión activa sin necesidad de obtener ninguna licencia adicional para el software. Asistencia remota autoriza a un usuario a conectarse directamente con el equipo de otro usuario, con frecuencia para solucionar problemas.\re.\tCopia de seguridad. Puede crear una única copia del software para fines de copia de seguridad y también puede utilizar dicha copia de seguridad para transmitir el software si lo obtuvo como software independiente, tal como se describe en la Sección 4, a continuación.\r3.\tPrivacidad; Consentimiento al Uso de Datos. Su privacidad es importante para nosotros. Algunas características del software envían o reciben información cuando se las utiliza. Muchas de estas características se pueden desactivar en la interfaz de usuario o se puede optar por no utilizarlas. Al aceptar el presente contrato o utilizar el software, usted acepta que Microsoft puede recopilar, utilizar y revelar la información, tal como se describe en la Declaración de Privacidad de Microsoft disponible en (aka.ms/privacy) y según se pudiera describir en la interfaz de usuario asociada a las características del software.\r4.\tTransmisión. Las disposiciones de esta sección no se aplican si adquirió el software en Alemania o en cualquiera de los países enumerados en este sitio (aka.ms/transfer), en cuyo caso toda transmisión del software a un tercero, además del derecho para utilizarlo, deben cumplir con la legislación aplicable.\ra.\tSoftware preinstalado en el dispositivo. Si adquirió el software preinstalado en un dispositivo (y también si realizó una actualización desde el software preinstalado en un dispositivo), puede transmitir directamente a otro usuario la licencia para utilizar el software, pero solo con el dispositivo licenciado. La transmisión debe incluir el software y, si se proporciona con el dispositivo, una etiqueta auténtica de Windows que incluya la clave del producto. Antes de efectuar cualquier transmisión permitida, la otra parte deberá aceptar que los términos de este contrato se aplican a la transmisión y al uso del software.\rb.\tSoftware independiente. Si adquirió el software como software independiente \u000b(y también si realizó una actualización desde el software que adquirió como software independiente), puede transmitir el software a otro dispositivo que le pertenezca. También puede transmitir el software a un dispositivo que le pertenezca a otra persona si: (i) usted es el primer usuario licenciado del software y (ii) el nuevo usuario acepta los términos de este contrato. Puede utilizar la copia de seguridad que le autorizamos a realizar o el soporte físico incluido con el software para la transmisión del software. Cada vez que transmita el software a un dispositivo nuevo, debe quitarlo del equipo en el que se encontraba anteriormente. No puede transmitir el software para compartir licencias entre dispositivos.\r5.\tSoftware Autorizado y Activación. Se le autoriza a utilizar este software solo si dispone de la licencia correspondiente y el software se ha activado correctamente con una clave de producto original o mediante un método autorizado. Cuando se conecte a Internet mientras use el software, este se pondrá en contacto automáticamente con Microsoft o su filial para que la activación lo asocie con un dispositivo determinado. También puede activar el software manualmente por teléfono o a través de Internet. En ambos casos, se realizará la transmisión de determinada información y podrían aplicarse cargos por el servicio de Internet, telefonía o SMS. Durante la activación (o la reactivación que puede desencadenarse debido a cambios en los componentes del dispositivo), es posible que el software determine que la instancia instalada del software se ha falsificado, no tiene la debida licencia o incluye cambios no autorizados. En caso de error durante la activación, el software intentará repararse automáticamente mediante el reemplazo de cualquier software de Microsoft alterado con software de Microsoft original. Además, es posible que reciba recordatorios para obtener una licencia adecuada para el software. La activación correcta no significa que el software sea original o que cuente con la debida licencia. No debe omitir o sortear la activación. Para determinar si el software es original y si cuenta con la debida licencia, consulte (aka.ms/genuine). Ciertas actualizaciones, soporte técnico y otros servicios se podrían ofrecer únicamente a usuarios de software original de Microsoft.\r6.\tActualizaciones. El software busca periódicamente actualizaciones del sistema y de las aplicaciones y las descarga e instala de forma automática. Solamente puede obtener actualizaciones provenientes de Microsoft o de orígenes autorizados y es posible que Microsoft deba actualizar el sistema para proporcionarle tales actualizaciones. Al aceptar el presente contrato, usted se compromete a recibir este tipo de actualizaciones automáticas sin notificación adicional.\r7.\tDerechos de Cambio a una Versión Anterior. Si obtuvo el dispositivo de un fabricante o instalador con una versión Professional de Windows preinstalada y configurada para ejecutarse en modo de características completas, puede utilizar una versión Professional de Windows 8.1 Pro o Windows 7, pero siempre y cuando Microsoft ofrezca soporte técnico para dicha versión anterior, tal como se establece en (aka.ms/windowslifecycle). \u000bEl presente contrato se aplicará al uso que haga de las versiones anteriores. Si esta incluyese diferentes componentes, el uso que haga de dichos componentes se regirá por los términos correspondientes del contrato de la versión anterior. Ni el fabricante ni el instalador del dispositivo ni Microsoft están obligados a proporcionarle las versiones anteriores. Debe obtener la versión anterior por separado y podrían aplicarse cargos por ello. Puede reemplazar en cualquier momento una versión anterior con la versión que adquirió originalmente.\r8.\tRestricciones en materia de Exportación. Usted debe cumplir todas las leyes y normativas nacionales e internacionales que se apliquen al software, lo que incluye restricciones respecto a destinos, usuarios finales y uso final. Para obtener más información sobre las restricciones en materia de exportación, visite (aka.ms/exporting).\r9.\tGarantía, Exclusión, Recurso, Daños y Procedimientos. \ra.\tGarantía limitada. Según cómo haya obtenido el software de Windows, Microsoft o el fabricante o instalador del dispositivo garantizan que el software con licencia de uso adecuada se ejecutará sustancialmente como se describe en los materiales de Microsoft que acompañan al software. Esta garantía limitada no cubre los problemas que usted cause, que surjan por no seguir las instrucciones o que estén causados por eventos más allá del control razonable de Microsoft o del fabricante o instalador del dispositivo. La garantía limitada entra en vigor cuando el primer usuario adquiere el software y tiene una duración de un año si se adquiere de Microsoft, o de 90 días si se adquiere de un fabricante o instalador del dispositivo. Si obtiene actualizaciones o complementos directamente de Microsoft durante el período de vigencia de noventa (90) días de la garantía limitada del fabricante o instalador del dispositivo, \u000bes Microsoft quien le otorga la garantía limitada por dichas actualizaciones o complementos. Todo complemento, actualización o sustitución del software que reciba por parte de Microsoft durante ese año también estarán cubiertos por lo que reste del período de un año si se adquiere de Microsoft, o de los 90 días si se adquiere de un fabricante o instalador del dispositvo o, de ser mayor, un plazo de \u000b30 días. La transferencia del software no extenderá la garantía limitada.\rb.\tExclusión. Ni Microsoft, ni el fabricante ni el instalador del dispositivo otorgan otras garantías ni condiciones explícitas. Microsoft y el fabricante o instalador del dispositivo excluyen todas las garantías y condiciones implícitas, incluidas las de comerciabilidad, idoneidad para propósito específico y ausencia de infracción. Si la ley local no permite la exclusión de las garantías implícitas, \u000btoda condición o garantía implícita tendrá la misma duración que el período de vigencia de la garantía limitada, y estará limitada en la medida en que lo permita la ley local. Si la ley local exige un periodo de garantía limitada superior, a pesar de lo establecido en el presente contrato, se aplicará dicho periodo superior, pero usted únicamente podrá obtener los recursos permitidos en virtud del presente contrato.\rc.\tRecurso limitado. En caso de que Microsoft o el fabricante o instalador del dispositivo no cumplan con la garantía limitada, estos podrán, a su elección: \u000b(i) reparar o reemplazar el software sin coste alguno, o (ii) aceptar la devolución del software (o, a su elección, el dispositivo en el que se preinstaló el software) a cambio del reembolso del importe abonado, si lo hubiere. El fabricante o instalador del dispositivo (o Microsoft si los adquirió directamente de Microsoft) también puede reparar o sustituir los complementos, actualizaciones y sustituciones del software o reembolsarle la cantidad que haya pagado por ellos, en su caso. Estos son los únicos recursos disponibles en caso de incumplimiento de la garantía. Esta garantía limitada le otorga derechos legales específicos y también podrá tener otros derechos que varían según el estado o país. \rd.\tDaños. Con excepción de cualquier reparación, sustitución o reembolso que Microsoft o el fabricante o instalador del dispositivo puedan proporcionar, usted no puede, en virtud de esta garantía limitada, de ninguna otra parte de este contrato ni de ningún fundamento, recuperar daños o perjuicios u otro recurso, entre ellos, lucro cesante o daños directos, consecuentes, especiales, indirectos o incidentales. Las exclusiones de la responsabilidad por daños y las limitaciones de recursos establecidas en el presente contrato se aplican incluso si la reparación, la sustitución o el reembolso no compensan totalmente las pérdidas o si Microsoft o el fabricante o instalador del dispositivo conocían o deberían haber conocido la posibilidad que se produjesen dichos daños, o si el recurso no cumple con la finalidad esencial. Algunos estados y países no permiten la exclusión o la limitación de la responsabilidad por daños incidentales, consecuentes o de otro tipo; por ende, es posible que dichas limitaciones o exclusiones no se apliquen en su caso. Si la ley local lo autoriza a recuperar los daños por parte de Microsoft o del fabricante o instalador del dispositivo, aunque no esté permitido en virtud del presente contrato, usted no podrá recuperar una suma superior a la que pagó por el software (o un máximo de 50 USD si adquirió el software de forma gratuita).\re.\tGarantía y procedimientos de reembolso. Para obtener servicios o un reembolso, deberá proporcionar una copia de la prueba de compra y cumplir con las políticas de devolución de Microsoft si adquirió el software de Microsoft, o las políticas de devolución del fabricante o instalador del dispositivo si adquirió el software de un fabricante o instalador del dispositivo. Si compró un software independiente, es posible que según dichas políticas de devolución usted deba desinstalar el software y devolverlo a Microsoft. Si adquirió el software preinstalado en un dispositivo, es posible que según dichas políticas de devolución usted deba devolver el software con todo el dispositivo en el que se instaló el software; la etiqueta del certificado de autenticidad junto con la clave del producto (si se le entregó con el dispositivo) debe permanecer adherida. Póngase en contacto con el fabricante o instalador del dispositivo en la dirección o número de teléfono gratuito que se indican en el dispositivo para saber cómo obtener el servicio de garantía para el software. Si Microsoft es el fabricante de su dispositivo o si adquirió el software de un distribuidor, póngase en contacto con Microsoft en:\r(i)\tEstados Unidos y Canadá. Para obtener servicios durante el período de la garantía o información sobre cómo obtener un reembolso por el software adquirido en Estados Unidos o Canadá, póngase en contacto con Microsoft \u000bpor teléfono llamando al (800) MICROSOFT o por correo electrónico escribiendo a Microsoft Customer Service and Support, One Microsoft Way, Redmond, WA 98052-6399; o visite (aka.ms/nareturns).\r(ii)\tEuropa, Oriente Medio y África. Si adquirió el software en Europa, Oriente Medio o África, póngase en contacto con Microsoft Ireland Operations Limited, Customer Care Centre, Atrium Building Block B, Carmanhall Road, Sandyford Industrial Estate, Dublín 18, Irlanda, o con la sociedad del grupo Microsoft que corresponda en su país (aka.ms/msoffices).\r(iii)\tAustralia. Si adquirió el software en Australia, póngase en contacto con Microsoft para presentar una reclamación llamando al 13 20 58, o con Microsoft Pty Ltd, 1 Epping Road, North Ryde NSW 2113 Australia.\r(iv)\tOtros países. Si adquirió el software en otro país, póngase en contacto con la sociedad del grupo Microsoft que corresponda en su país (aka.ms/msoffices).\r10.\tSoporte.\ra.\tSoftware preinstalado en un dispositivo. Para conocer las opciones del software en general, póngase en contacto con el fabricante o el instalador del dispositivo. Consulte el número de servicio de soporte técnico que se proporciona con el software. En el caso de las actualizaciones y los complementos obtenidos directamente de Microsoft, es posible que Microsoft proporcione servicios de soporte técnico limitado si el software cuenta con la debida licencia, tal como se describe en (aka.ms/mssupport). \rb.\tSoftware adquirido a un distribuidor. Microsoft proporciona servicios de soporte técnico limitado para el software que cuenta con la debida licencia, tal como se describe en (aka.ms/mssupport). \r11.\tCláusula de Arbitraje Vinculante y Renuncia a la Acción de Grupo si Vive en (o, si es una Empresa, su Domicilio Comercial Principal se encuentra en) Estados Unidos.\rEsperamos nunca tener un conflicto, pero de ser así, usted y nosotros nos comprometemos a intentar resolverlo mediante una negociación informal durante un plazo de sesenta (60) días. Si el conflicto no se resolviese mediante dicha negociación, usted y nosotros aceptamos el arbitraje vinculante individual de la Asociación Americana de Arbitraje (?AAA?) conforme a la Ley Federal de Arbitraje (?FAA?) y acordamos no entablar una demanda en un tribunal ante un juez o un jurado. En su lugar, un árbitro neutral resolverá el conflicto y su decisión será definitiva, excepto si se recurre al derecho limitado de apelación conforme a la Ley Federal de Arbitraje (FAA). No se permiten las acciones de grupo, los arbitrajes colectivos, las acciones realizadas por un abogado privado y otros procedimientos en los que una persona actúa en calidad de representante de un grupo de personas. Tampoco se permite combinar procedimientos individuales sin el consentimiento de todas las partes. ?Nosotros?, ?nuestro?, ?nuestra? y ?nos? incluye a Microsoft, el fabricante del dispositivo y el instalador del software.\ra.\tConflictos amparados (todo excepto IP). El término ?conflicto? es lo más amplio posible. Incluye toda reclamación o controversia entre usted y el fabricante o instalador del dispositivo, o entre usted y Microsoft, en relación con el software, su precio o el presente contrato, en virtud de cualquier fundamento jurídico que incluya contrato, garantía, responsabilidad extracontractual, estatuto o reglamento, excepto los conflictos relativos al cumplimiento o la validez de los derechos de propiedad intelectual suyos, de sus licenciantes, nuestros o de nuestros licenciantes.\rb.\tEnvío por correo postal de una Notificación de Conflicto primero. Si tiene un conflicto pero nuestros representantes del servicio de atención al cliente no pueden resolverlo, envíe un correo al fabricante o instalador del dispositivo a ATTN: LEGAL DEPARTMENT. Si el conflicto es con Microsoft, envíela a Microsoft Corporation, \u000bATTN: CELA ARBITRATION, One Microsoft Way, Redmond, WA 98052-6399. Indique su nombre, dirección postal, cómo contactarle, el problema y lo que desea. Encontrará un formulario en (aka.ms/disputeform). Procederemos del mismo modo en caso de tener un conflicto con usted. \rc.\tOpción de tribunal para casos menores. En lugar de enviar por correo postal una Notificación de Conflicto, y si cumple con los requisitos del tribunal, usted puede iniciarnos una demanda en un tribunal para casos menores correspondiente a su región de residencia (o si se trata de una empresa, donde se encuentra su domicilio comercial principal) o en nuestro domicilio comercial principal, Condado de King, Washington, EE. UU. en caso de que el conflicto sea con Microsoft.\rd.\tProcedimiento de arbitraje. La Asociación Americana de Arbitraje (?AAA?) realizará cualquier arbitraje en virtud de sus Reglamentos de Arbitraje Comercial (o si usted es un individuo y utiliza el software para uso personal o doméstico o si el valor del conflicto es igual o inferior a 75.000 USD, sea usted o no un individuo o con independencia de cómo utilice el software, se realizará en virtud de sus Reglamentos de Arbitraje para el Consumidor). Para obtener más información, consulte (aka.ms/adr) o llame al 1-800-778-7879. Para iniciar un arbitraje, envíe el formulario disponible en (aka.ms/arbitration) a la AAA y envíe por correo una copia al fabricante o instalador del dispositivo (o a Microsoft si el conflicto es con Microsoft). En todo conflicto con un valor igual o inferior a 25.000 USD, cualquier audiencia será telefónica, a menos que el árbitro encuentre un motivo razonable para realizarla en persona. Toda audiencia en persona se llevará a cabo en la región donde usted reside (o si se trata de una empresa, donde se encuentra su domicilio comercial principal) o en nuestro domicilio comercial principal, Condado de King, Washington, EE. UU. si el conflicto es con Microsoft. La decisión es suya. El árbitro puede adjudicarle los mismos daños y perjuicios que le adjudicaría un tribunal. El árbitro puede asignar medidas cautelares o declaratorias solo a usted de forma individual para satisfacer su reclamación individual. En virtud de las normas de la AAA, el árbitro es quien dirime el conflicto en su propia jurisdicción, incluida la posibilidad de someter a arbitraje cualquier reclamación. No obstante, un tribunal tiene la facultad exclusiva de hacer cumplir la prohibición de arbitraje para todo un grupo o en carácter representativo.\re.\tHonorarios y pagos de arbitraje.\r(i)\tConflictos por un valor igual o inferior a 75.000 USD. El fabricante o instalador del dispositivo (o Microsoft si tiene un conflicto con Microsoft) le reembolsarán inmediatamente los costes judiciales y pagarán los honorarios y gastos de la AAA y del árbitro. Si rechaza nuestra última oferta por escrito de acuerdo transaccional realizada antes del nombramiento del árbitro, su conflicto llegará hasta la decisión de un árbitro (denominado ?laudo?) y si el árbitro le adjudica una cantidad superior a la última oferta por escrito, el fabricante o instalador del dispositivo (o Microsoft si el conflicto es con Microsoft) deberán: (1) pagar el laudo o 1.000 USD, la cantidad que sea mayor; (2) pagar los honorarios razonables de su abogado, si los hubiera; y (3) reembolsar cualquier gasto (incluidos honorarios y costos de testigos expertos) que acumule razonablemente su abogado por investigar, preparar y presentar su reclamación en arbitraje. \r(ii)\tConflictos por un valor mayor que 75.000 USD. Las normas de la AAA regirán el pago de los costes judiciales y los honorarios y gastos del árbitro y la AAA.\rf.\tPlazo máximo de presentación de un año. Usted y nosotros debemos presentar cualquier reclamación o conflicto (excepto los conflictos de propiedad intelectual e industrial [ver Sección 11.a.]) ante el tribunal para casos menores o arbitraje dentro del plazo de un año a partir del momento en que pudo presentarse por primera vez. De lo contrario, se excluirá permanentemente.\rg.\tDivisibilidad. Si cualquier disposición de la Sección 11 (Arbitraje Vinculante y Renuncia a la Acción de Grupo) fuera declarada ilegal o inaplicable, las disposiciones restantes seguirán vigentes (cuando se hubiera emitido un laudo arbitral antes del comienzo de un proceso judicial), salvo que la determinación de la ilegalidad o inaplicabilidad parcial permitiera un arbitraje representativo o para todo un grupo, en cuyo caso la Sección 11 será inaplicable en su totalidad.\rh.\tConflicto con las normas de la AAA. Este contrato prevalecerá en caso de que esté en conflicto con los Reglamentos de Arbitraje Comercial o los Reglamentos de Arbitraje para el Consumidor de la AAA.\ri.\tMicrosoft como parte o tercero beneficiario. Si Microsoft es el fabricante del dispositivo o si usted compró el software a un distribuidor, Microsoft es una parte de este contrato. De lo contrario, Microsoft no es una parte sino un tercero beneficiario del contrato que usted celebró con el fabricante o instalador del dispositivo para resolver conflictos mediante una negociación informal y arbitraje.\r12.\tLegislación Aplicable. Las leyes del estado, país o región en que reside (o si se trata de una empresa, donde se encuentre su domicilio comercial principal) regirán las reclamaciones y los conflictos relativos al software, su precio o este contrato, incluidas las reclamaciones por incumplimiento de contrato y las reclamaciones en virtud de las leyes de protección al consumidor, competencia desleal, garantía implícita, enriquecimiento sin causa y responsabilidad extracontractual, con independencia de conflictos de principios legales. En los Estados Unidos, la Ley federal de arbitraje rige todas las disposiciones relacionadas con el arbitraje.\r13.\tDerechos de Consumidor, Variaciones Regionales. En este contrato se describen determinados derechos legales. Puede que usted tenga otros derechos, incluidos derechos del consumidor, según la legislación de su estado o país. Asimismo, pueden asistirle determinados derechos con respecto a la parte a la que le adquirió el software. Este contrato no modifica los otros derechos de los que dispone en virtud de la legislación de su estado, país o región si dicha legislación no lo permite. Por ejemplo, si adquirió el software en una de las regiones que figuran a continuación, o si se aplican leyes obligatorias del país o la región, las siguientes disposiciones se aplican a su caso:\ra.\tAustralia. Las referencias a \"Garantía limitada\" son referencias a la garantía expresa proporcionada por Microsoft o el fabricante o instalador del dispositivo. Esta garantía se otorga de manera adicional a otros derechos y recursos que pueda tener según la legislación, incluidos sus derechos y recursos de acuerdo con las garantías legales conforme a la Ley de Protección al Consumidor de Australia. Ninguna disposición de este contrato limitará o modificará dichos derechos y recursos. En particular:\r(i)\tlas disposiciones que excluyen y limitan garantías, daños y recursos y que limitan la duración de sus derechos en virtud de las leyes locales en la Sección 9 bajo el título Garantía, Exclusión, Recursos, Daños y Procedimientos no se aplican a las garantías del consumidor en virtud de la Ley de Protección del Consumidor de Australia y los derechos y recursos que usted tiene en virtud de ellas;\r(ii)\tlas políticas de soporte técnico y reembolso mencionadas en la Sección 10 están sujetas a la Ley de Protección del Consumidor de Australia;\r(iii)\tlas garantías del consumidor en virtud de la Ley de Protección del Consumidor de Australia se aplican al software de evaluación descrito en la Sección 14 d (ii) y el software en versión preliminar descrito en la Sección 14 d (iv); y\r(iv)\tnuestros productos se entregan con garantías que no se pueden excluir de conformidad con la Ley de Protección del Consumidor de Australia. En este apartado, ?productos? hace referencia al software para el que Microsoft, el fabricante o instalador del dispositivo proporcionan la garantía expresa. Tiene derecho a la sustitución o reembolso por error importante y compensación por cualquier otra pérdida o daño razonablemente previsible. También tiene derecho a la reparación de los bienes o a su sustitución si los bienes no son de calidad aceptable y el error no asciende a un error importante.\rPara obtener más información sobre sus derechos en virtud de la Ley de Protección del Consumidor de Australia, consulte la información disponible en (aka.ms/acl).\rb.\tCanadá. Puede interrumpir la recepción de actualizaciones en el dispositivo si desactiva el acceso a Internet. No obstante, cuando vuelva a conectarse a Internet, el software reanudará la búsqueda e instalación de actualizaciones.\rc.\tUnión Europea. La restricción de uso académico descrita en la Sección 14.d(i) a continuación, no se aplica a las jurisdicciones que se enumeran en este sitio: (aka.ms/academicuse).\rd.\tAlemania y Austria.\r(i)\tGarantía. El software que disponga de la debida licencia funcionará esencialmente como se describe en la documentación de Microsoft que lo acompaña. Sin embargo, el fabricante o instalador del dispositivo y Microsoft no otorgan ninguna garantía contractual en relación con el software del que tiene licencia de uso.\r(ii)\tLimitación de Responsabilidad. En caso de conducta intencional, negligencia grave o reclamaciones según la Ley de Responsabilidad sobre Productos, así como en caso de muerte o lesiones personales o físicas, el fabricante o instalador del dispositivo, o Microsoft son responsables según el derecho estatutario.\rSujeto a la oración precedente, el fabricante o instalador del dispositivo, o Microsoft únicamente serán responsables de negligencia leve si estos han incumplido aquellas obligaciones contractuales materiales, cuyo cumplimiento facilite la ejecución correcta de este contrato, cuyo incumplimiento constituya una amenaza contra el objeto de este contrato y el cumplimiento en el que una parte confía de manera permanente (denominadas ?obligaciones fundamentales?). En otros casos de negligencia leve, el fabricante o instalador del dispositivo, o Microsoft no serán responsables de negligencia leve.\re.\tOtras regiones. Consulte (aka.ms/variations) para obtener una lista actual de las variaciones regionales.\r14.\tNotificaciones Adicionales.\ra.\tUso de redes, datos e Internet. Es posible que algunas características del software y los servicios a los que se accede a través de este requieran que su dispositivo acceda a Internet. El acceso y el uso (incluidos los cargos) pueden estar sujetos a los términos del contrato que tenga con su proveedor de Internet o telefonía móvil. Ciertas características del software pueden ayudarle a acceder a Internet de forma más eficiente, pero los cálculos de uso del software pueden ser diferentes de las mediciones de su proveedor de servicios. Usted siempre será responsable de (i) entender y cumplir con los términos de sus propios planes y contratos, y (ii) cualquier problema que surja del uso o el acceso a las redes, incluidas las redes públicas o abiertas. Puede utilizar el software para conectarse a las redes y compartir la información de acceso sobre dichas redes, solo si tiene permiso para hacerlo.\rb.\tEstándares visuales H.264/AVC y MPEG-4 y estándares de vídeo VC-1. El software puede incluir la tecnología de descodificación H.264/MPEG-4 AVC y VC-1. MPEG LA, L.L.C. requiere la inclusión de la siguiente notificación:\rLA LICENCIA DE ESTE PRODUCTO SE CONCEDE EN CUMPLIMIENTO DE LAS LICENCIAS DE LA CARTERA DE PATENTES DE VÍDEO VISUAL AVC, VC-1 y MPEG-4 PARTE 2 PARA USO PERSONAL Y NO COMERCIAL POR PARTE DE UN CONSUMIDOR PARA (i) CODIFICAR VÍDEO EN CUMPLIMIENTO CON LOS ESTÁNDARES ANTERIORES (?ESTÁNDARES DE VÍDEO?) Y/O (ii) DESCODIFICAR VÍDEO AVC, VC-1 Y MPEG-4 PARTE 2 QUE HAYA SIDO CODIFICADO POR UN CONSUMIDOR EJERCIENDO UNA ACTIVIDAD PERSONAL NO COMERCIAL Y/U OBTENIDO DE UN PROVEEDOR DE VÍDEO CON LICENCIA PARA PROPORCIONAR DICHO VÍDEO. NO SE CONCEDE NINGUNA OTRA LICENCIA PARA NINGÚN OTRO USO, NI SE DEBE PRESUPONER SU CONCESIÓN. PUEDE OBTENER INFORMACIÓN ADICIONAL EN MPEG LA, L.L.C. CONSULTE (AKA.MS/MPEGLA).\rc.\tProtección contra malware. Microsoft se preocupa por proteger su dispositivo contra malware. El software activará la protección contra malware si el dispositivo no tiene instalada otra protección o si ha expirado. Para ello, se desactivará otro software antimalware o es posible que deba quitarse.\rd.\tVersiones con derechos limitados. Si la versión de software que adquirió está identificada o de otro modo destinada a un uso específico o limitado, solo puede utilizarla según lo especificado. Tales versiones de software no pueden utilizarse para actividades comerciales, sin fines de lucro o que generen ingresos.\r(i)\tUso académico. En el caso del uso académico, usted debe ser un estudiante, un docente o un empleado de una institución educativa en el momento de la compra.\r(ii)\tEvaluación. En el caso del uso con fines de evaluación (o prueba o demostración), no puede vender el software, utilizarlo en un entorno operativo activo, ni utilizarlo después del periodo de evaluación. Independientemente de cualquier estipulación en sentido contrario en este Contrato, el software se proporciona ?TAL CUAL? y ninguna garantía, ni implícita ni expresa (incluyendo la Garantía Limitada), se aplica a estas versiones.\r(iii)\tNPR. No puede vender el software identificado como ?NPR? o ?No para Reventa?.\r(iv)\tVista previa. Puede optar por utilizar la versión previa, insider, beta u otras versiones preliminares del software (?versiones preliminares?) que Microsoft puede poner a disposición. Puede utilizar las vistas previas solo hasta la fecha de expiración del software y siempre y cuando cumpla con todos los términos de este contrato. Las vistas previas son experimentales y pueden ser sustancialmente diferentes de la versión que se lance comercialmente. Independientemente de cualquier estipulación en sentido contrario en este contrato, las vistas previas \u000bse proporcionan ?TAL CUAL? y ninguna garantía, ni implícita ni expresa (incluyendo la Garantía Limitada), se aplica a estas versiones. Al instalar vistas previas en su dispositivo, es posible que anule o afecte a garantía de su dispositivo y que no tenga derecho a recibir soporte del fabricante del dispositivo u operador de red, si correspondiera.Microsoft no es responsable de ningún daño que esto pudiera causarle. Microsoft no puede brindar servicios de soporte técnico para las vistas previas. Si proporciona comentarios, sugerencias u otros comentarios a Microsoft en relación con la vista previa (?envío?), usted concede a Microsoft y sus socios derechos para utilizar el envío de cualquier forma y para cualquier finalidad.\r15.\tContrato completo. Este contrato (junto con los términos de licencia impresos u otro términos que acompañan cualquier complemento, actualización y servicio del software proporcionado por el fabricante o instalador del dispositivo, o Microsoft, y que usted utilice), además de los términos incluidos en los vínculos web indicados en este contrato, constituyen el contrato completo del software y tales complementos, actualizaciones y servicios (a menos que el fabricante o instalador del dispositivo, o Microsoft, proporcionen otros términos con esos complementos, actualizaciones o servicios). Puede revisar este contrato después de ejecutar el software en (aka.ms/useterms) o dirigiéndose a Configuración \u003e Sistema \u003e Acerca de en el software. También puede revisar los términos en cualquiera de los vínculos de este contrato al escribir las direcciones URL en la barra de direcciones de un explorador, y acepta hacerlo. Usted acepta que leerá los términos antes de utilizar el software o los servicios, incluido cualquier término vinculado. Usted comprende que, al utilizar el software y los servicios, ratifica este contrato y los términos vinculados. Este contrato también contiene vínculos con información. Los vínculos que contienen notificaciones y términos vinculantes son:\r·\tDeclaración de privacidad de Microsoft (aka.ms/privacy)\r·\tContrato de Servicios de Microsoft (aka"
+    },
+    {
+      "widgetId": "WCCapq7w2c54040558376",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAWindow",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.055067837",
+            "y": "0.189987163"
+          },
+          {
+            "x": "0.606544294",
+            "y": "0.189987163"
+          },
+          {
+            "x": "0.606544294",
+            "y": "0.761232349"
+          },
+          {
+            "x": "0.055067837",
+            "y": "0.761232349"
+          }
+        ]
+      },
+      "className": "#32770",
+      "title": "Términos de licencia del software de Microsoft",
+      "desc": "Términos de licencia del software de Microsoft",
+      "name": "Términos de licencia del software de Microsoft",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1oii3qx2a8191858575",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.085395052",
+            "y": "0.546854942"
+          },
+          {
+            "x": "0.336791700",
+            "y": "0.546854942"
+          },
+          {
+            "x": "0.336791700",
+            "y": "0.567394095"
+          },
+          {
+            "x": "0.085395052",
+            "y": "0.567394095"
+          }
+        ]
+      },
+      "className": "Static",
+      "title": "FernandoTESTAR",
+      "desc": "FernandoTESTAR",
+      "name": "FernandoTESTAR",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCy57o0b2911070918177",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.905027933",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.986432562",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.986432562",
+            "y": "0.998716303"
+          },
+          {
+            "x": "0.905027933",
+            "y": "0.998716303"
+          }
+        ]
+      },
+      "className": "",
+      "title": " UTF-8",
+      "desc": " UTF-8",
+      "name": " UTF-8",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1kv20a129c4024105077",
+      "destinationState": "SCCk0yd5t323366563102",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.532322426",
+            "y": "0.707317073"
+          },
+          {
+            "x": "0.592178771",
+            "y": "0.707317073"
+          },
+          {
+            "x": "0.592178771",
+            "y": "0.736842105"
+          },
+          {
+            "x": "0.532322426",
+            "y": "0.736842105"
+          }
+        ]
+      },
+      "className": "Button",
+      "title": "Aceptar",
+      "desc": "Aceptar",
+      "name": "Aceptar",
+      "toolTipText": "",
+      "valuePattern": ""
+    }
+  ],
+  "screenshotPath": "./output\\2021-03-29_12h46m06s_notepad_data_1\\scrshots\\2021-03-29_12h46m55s_notepad_data_1_sequence_1\\SCC12fusa7400280665020.png",
+  "screenshotId": "SCC12fusa7400280665020"
+}

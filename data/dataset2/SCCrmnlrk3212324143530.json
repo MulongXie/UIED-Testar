@@ -1,0 +1,1194 @@
+{
+  "widgetJsonObjects": [
+    {
+      "widgetId": "WCCa94bir28f3186730929",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.962490024",
+            "y": "0.001283697"
+          },
+          {
+            "x": "1.000000000",
+            "y": "0.001283697"
+          },
+          {
+            "x": "1.000000000",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.962490024",
+            "y": "0.039794608"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Cerrar",
+      "desc": "Cerrar",
+      "name": "Cerrar",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCvlngcc2922517871682",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.370311253",
+            "y": "0.109114249"
+          },
+          {
+            "x": "0.397446129",
+            "y": "0.109114249"
+          },
+          {
+            "x": "0.397446129",
+            "y": "0.147625160"
+          },
+          {
+            "x": "0.370311253",
+            "y": "0.147625160"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Cerrar",
+      "desc": "Cerrar",
+      "name": "Cerrar",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCkn7n2k2ac4234221252",
+      "destinationState": "none",
+      "enabled": false,
+      "role": "UIAScrollBar",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.985634477",
+            "y": "0.065468549"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.065468549"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.962772786"
+          },
+          {
+            "x": "0.985634477",
+            "y": "0.962772786"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Vertical",
+      "desc": "Vertical",
+      "name": "Vertical",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCch1q972ab3801349733",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAWindow",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.024740623",
+            "y": "0.107830552"
+          },
+          {
+            "x": "0.403032721",
+            "y": "0.107830552"
+          },
+          {
+            "x": "0.403032721",
+            "y": "0.659820282"
+          },
+          {
+            "x": "0.024740623",
+            "y": "0.659820282"
+          }
+        ]
+      },
+      "className": "#32770",
+      "title": "Acerca de Bloc de notas",
+      "desc": "Acerca de Bloc de notas",
+      "name": "Acerca de Bloc de notas",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC11nnzyr2922789749356",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuItem",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.086991221",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.134078212",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.134078212",
+            "y": "0.064184852"
+          },
+          {
+            "x": "0.086991221",
+            "y": "0.064184852"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Formato",
+      "desc": "Formato",
+      "name": "Formato",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1fswt7j2a2440168352",
+      "destinationState": "none",
+      "enabled": false,
+      "role": "UIAButton",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.985634477",
+            "y": "0.065468549"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.065468549"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.087291399"
+          },
+          {
+            "x": "0.985634477",
+            "y": "0.087291399"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Línea arriba",
+      "desc": "Línea arriba",
+      "name": "Línea arriba",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC8co22f29d2332517846",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIATitleBar",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.031125299",
+            "y": "0.111681643"
+          },
+          {
+            "x": "0.396648045",
+            "y": "0.111681643"
+          },
+          {
+            "x": "0.396648045",
+            "y": "0.147625160"
+          },
+          {
+            "x": "0.031125299",
+            "y": "0.147625160"
+          }
+        ]
+      },
+      "className": "",
+      "title": "",
+      "desc": "",
+      "name": "",
+      "toolTipText": "",
+      "valuePattern": "Acerca de Bloc de notas"
+    },
+    {
+      "widgetId": "WCCgfykao29b1788830116",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuBar",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000798085",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.064184852"
+          },
+          {
+            "x": "0.000798085",
+            "y": "0.064184852"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Aplicación",
+      "desc": "Aplicación",
+      "name": "Aplicación",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCyxext62a1472170699",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuBar",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000798085",
+            "y": "0.010269576"
+          },
+          {
+            "x": "0.018355946",
+            "y": "0.010269576"
+          },
+          {
+            "x": "0.018355946",
+            "y": "0.038510911"
+          },
+          {
+            "x": "0.000798085",
+            "y": "0.038510911"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Sistema",
+      "desc": "Sistema",
+      "name": "Sistema",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1t7n9ev2923728311004",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.925778132",
+            "y": "0.001283697"
+          },
+          {
+            "x": "0.962490024",
+            "y": "0.001283697"
+          },
+          {
+            "x": "0.962490024",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.925778132",
+            "y": "0.039794608"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Maximizar",
+      "desc": "Maximizar",
+      "name": "Maximizar",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1l6dsts2d52366802885",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.073423783",
+            "y": "0.317073171"
+          },
+          {
+            "x": "0.360734238",
+            "y": "0.317073171"
+          },
+          {
+            "x": "0.360734238",
+            "y": "0.337612323"
+          },
+          {
+            "x": "0.073423783",
+            "y": "0.337612323"
+          }
+        ]
+      },
+      "className": "Static",
+      "title": "© 2019 Microsoft Corporation. Todos los derechos reservados",
+      "desc": "© 2019 Microsoft Corporation. Todos los derechos reservados",
+      "name": "© 2019 Microsoft Corporation. Todos los derechos reservados",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCywqpfs2a1906146189",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAEdit",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000798085",
+            "y": "0.065468549"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.065468549"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.962772786"
+          },
+          {
+            "x": "0.000798085",
+            "y": "0.962772786"
+          }
+        ]
+      },
+      "className": "Edit",
+      "title": "Editor de texto",
+      "desc": "Editor de texto",
+      "name": "Editor de texto",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC5ynjpu2b12204907316",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAStatusBar",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000798085",
+            "y": "0.962772786"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.962772786"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.998716303"
+          },
+          {
+            "x": "0.000798085",
+            "y": "0.998716303"
+          }
+        ]
+      },
+      "className": "msctls_statusbar32",
+      "title": "Barra de estado",
+      "desc": "Barra de estado",
+      "name": "Barra de estado",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1xhiz992c53058778020",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.073423783",
+            "y": "0.296534018"
+          },
+          {
+            "x": "0.391061453",
+            "y": "0.296534018"
+          },
+          {
+            "x": "0.391061453",
+            "y": "0.317073171"
+          },
+          {
+            "x": "0.073423783",
+            "y": "0.317073171"
+          }
+        ]
+      },
+      "className": "Static",
+      "title": "Versión 1909 (compilación de SO 18363.1440)",
+      "desc": "Versión 1909 (compilación de SO 18363.1440)",
+      "name": "Versión 1909 (compilación de SO 18363.1440)",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCsfty35306694019848",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAPane",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.073423783",
+            "y": "0.483953787"
+          },
+          {
+            "x": "0.324820431",
+            "y": "0.483953787"
+          },
+          {
+            "x": "0.324820431",
+            "y": "0.526315789"
+          },
+          {
+            "x": "0.073423783",
+            "y": "0.526315789"
+          }
+        ]
+      },
+      "className": "SysLink",
+      "title": "La licencia de este producto se concede de acuerdo con los Términos de licencia del software de Microsoft a:",
+      "desc": "La licencia de este producto se concede de acuerdo con los Términos de licencia del software de Microsoft a:",
+      "name": "La licencia de este producto se concede de acuerdo con los Términos de licencia del software de Microsoft a:",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC8c0k922992394785688",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAImage",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.039904230",
+            "y": "0.275994865"
+          },
+          {
+            "x": "0.065442937",
+            "y": "0.275994865"
+          },
+          {
+            "x": "0.065442937",
+            "y": "0.318356868"
+          },
+          {
+            "x": "0.039904230",
+            "y": "0.318356868"
+          }
+        ]
+      },
+      "className": "Static",
+      "title": "",
+      "desc": "",
+      "name": "",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1fzn3al2a31463427232",
+      "destinationState": "none",
+      "enabled": false,
+      "role": "UIAButton",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.985634477",
+            "y": "0.940949936"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.940949936"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.962772786"
+          },
+          {
+            "x": "0.985634477",
+            "y": "0.962772786"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Línea abajo",
+      "desc": "Línea abajo",
+      "name": "Línea abajo",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCxlx29f299897191271",
+      "destinationState": "SCC1x9hbzb2022697922901",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.330407023",
+            "y": "0.607188703"
+          },
+          {
+            "x": "0.390263368",
+            "y": "0.607188703"
+          },
+          {
+            "x": "0.390263368",
+            "y": "0.636713736"
+          },
+          {
+            "x": "0.330407023",
+            "y": "0.636713736"
+          }
+        ]
+      },
+      "className": "Button",
+      "title": "Aceptar",
+      "desc": "Aceptar",
+      "name": "Aceptar",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1vgt9ax2922613899277",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuItem",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000798085",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.044692737",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.044692737",
+            "y": "0.064184852"
+          },
+          {
+            "x": "0.000798085",
+            "y": "0.064184852"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Archivo",
+      "desc": "Archivo",
+      "name": "Archivo",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1tinism2af3038251503",
+      "destinationState": "none",
+      "enabled": false,
+      "role": "UIAWindow",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000000000",
+            "y": "0.000000000"
+          },
+          {
+            "x": "1.000000000",
+            "y": "0.000000000"
+          },
+          {
+            "x": "1.000000000",
+            "y": "1.000000000"
+          },
+          {
+            "x": "0.000000000",
+            "y": "1.000000000"
+          }
+        ]
+      },
+      "className": "Notepad",
+      "title": "Sin título: Bloc de notas",
+      "desc": "Sin título: Bloc de notas",
+      "name": "Sin título: Bloc de notas",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCy57o0b2911070918177",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.905027933",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.986432562",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.986432562",
+            "y": "0.998716303"
+          },
+          {
+            "x": "0.905027933",
+            "y": "0.998716303"
+          }
+        ]
+      },
+      "className": "",
+      "title": " UTF-8",
+      "desc": " UTF-8",
+      "name": " UTF-8",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCj71q392973358068947",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuItem",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000798085",
+            "y": "0.010269576"
+          },
+          {
+            "x": "0.018355946",
+            "y": "0.010269576"
+          },
+          {
+            "x": "0.018355946",
+            "y": "0.038510911"
+          },
+          {
+            "x": "0.000798085",
+            "y": "0.038510911"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Sistema",
+      "desc": "Sistema",
+      "name": "Sistema",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1cz611k2901118080266",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuItem",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.158020750",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.196328811",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.196328811",
+            "y": "0.064184852"
+          },
+          {
+            "x": "0.158020750",
+            "y": "0.064184852"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Ayuda",
+      "desc": "Ayuda",
+      "name": "Ayuda",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1xpk8cf2923715617921",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuItem",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.044692737",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.086991221",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.086991221",
+            "y": "0.064184852"
+          },
+          {
+            "x": "0.044692737",
+            "y": "0.064184852"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Edición",
+      "desc": "Edición",
+      "name": "Edición",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC152vrzn2a8291202138",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.085395052",
+            "y": "0.526315789"
+          },
+          {
+            "x": "0.336791700",
+            "y": "0.526315789"
+          },
+          {
+            "x": "0.336791700",
+            "y": "0.546854942"
+          },
+          {
+            "x": "0.085395052",
+            "y": "0.546854942"
+          }
+        ]
+      },
+      "className": "Static",
+      "title": "FernandoTESTAR",
+      "desc": "FernandoTESTAR",
+      "name": "FernandoTESTAR",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1n23wp529c2612741248",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIATitleBar",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.013567438",
+            "y": "0.003851091"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.003851091"
+          },
+          {
+            "x": "0.999201915",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.013567438",
+            "y": "0.039794608"
+          }
+        ]
+      },
+      "className": "",
+      "title": "",
+      "desc": "",
+      "name": "",
+      "toolTipText": "",
+      "valuePattern": "Sin título: Bloc de notas"
+    },
+    {
+      "widgetId": "WCChdvcs028a2390236104",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.000798085",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.656025539",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.656025539",
+            "y": "0.998716303"
+          },
+          {
+            "x": "0.000798085",
+            "y": "0.998716303"
+          }
+        ]
+      },
+      "className": "",
+      "title": "",
+      "desc": "",
+      "name": "",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1qy0phf2b93915255959",
+      "destinationState": "SCC12fusa7400280665020",
+      "enabled": true,
+      "role": "UIAHyperLink",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.073423783",
+            "y": "0.500641849"
+          },
+          {
+            "x": "0.249002394",
+            "y": "0.500641849"
+          },
+          {
+            "x": "0.249002394",
+            "y": "0.517329910"
+          },
+          {
+            "x": "0.073423783",
+            "y": "0.517329910"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Términos de licencia del software de Microsoft",
+      "desc": "Términos de licencia del software de Microsoft",
+      "name": "Términos de licencia del software de Microsoft",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1xodfss2ab2317319167",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.073423783",
+            "y": "0.275994865"
+          },
+          {
+            "x": "0.348762969",
+            "y": "0.275994865"
+          },
+          {
+            "x": "0.348762969",
+            "y": "0.296534018"
+          },
+          {
+            "x": "0.073423783",
+            "y": "0.296534018"
+          }
+        ]
+      },
+      "className": "Static",
+      "title": "Microsoft Windows",
+      "desc": "Microsoft Windows",
+      "name": "Microsoft Windows",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCjqp02n28f4167584310",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.769353551",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.807661612",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.807661612",
+            "y": "0.998716303"
+          },
+          {
+            "x": "0.769353551",
+            "y": "0.998716303"
+          }
+        ]
+      },
+      "className": "",
+      "title": " 100%",
+      "desc": " 100%",
+      "name": " 100%",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1baqutv298355544296",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.657621708",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.767757382",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.767757382",
+            "y": "0.998716303"
+          },
+          {
+            "x": "0.657621708",
+            "y": "0.998716303"
+          }
+        ]
+      },
+      "className": "",
+      "title": "  Ln 1, Col 1",
+      "desc": "  Ln 1, Col 1",
+      "name": "  Ln 1, Col 1",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCzo7xvt28e465161960",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAMenuItem",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.134078212",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.158020750",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.158020750",
+            "y": "0.064184852"
+          },
+          {
+            "x": "0.134078212",
+            "y": "0.064184852"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Ver",
+      "desc": "Ver",
+      "name": "Ver",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCCh1jy6e29a571230103",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.809257781",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.903431764",
+            "y": "0.965340180"
+          },
+          {
+            "x": "0.903431764",
+            "y": "0.998716303"
+          },
+          {
+            "x": "0.809257781",
+            "y": "0.998716303"
+          }
+        ]
+      },
+      "className": "",
+      "title": " Windows (CRLF)",
+      "desc": " Windows (CRLF)",
+      "name": " Windows (CRLF)",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC19hmchi2922857849346",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAButton",
+      "blocked": true,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.888268156",
+            "y": "0.001283697"
+          },
+          {
+            "x": "0.925778132",
+            "y": "0.001283697"
+          },
+          {
+            "x": "0.925778132",
+            "y": "0.039794608"
+          },
+          {
+            "x": "0.888268156",
+            "y": "0.039794608"
+          }
+        ]
+      },
+      "className": "",
+      "title": "Minimizar",
+      "desc": "Minimizar",
+      "name": "Minimizar",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1ekoqrc2a81773112007",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.085395052",
+            "y": "0.546854942"
+          },
+          {
+            "x": "0.336791700",
+            "y": "0.546854942"
+          },
+          {
+            "x": "0.336791700",
+            "y": "0.567394095"
+          },
+          {
+            "x": "0.085395052",
+            "y": "0.567394095"
+          }
+        ]
+      },
+      "className": "Static",
+      "title": "FernandoTESTAR",
+      "desc": "FernandoTESTAR",
+      "name": "FernandoTESTAR",
+      "toolTipText": "",
+      "valuePattern": ""
+    },
+    {
+      "widgetId": "WCC1dpk8cs37f3544582680",
+      "destinationState": "none",
+      "enabled": true,
+      "role": "UIAText",
+      "blocked": false,
+      "boundingPoly": {
+        "stringVertice": [
+          {
+            "x": "0.073423783",
+            "y": "0.359435173"
+          },
+          {
+            "x": "0.360734238",
+            "y": "0.359435173"
+          },
+          {
+            "x": "0.360734238",
+            "y": "0.442875481"
+          },
+          {
+            "x": "0.073423783",
+            "y": "0.442875481"
+          }
+        ]
+      },
+      "className": "Static",
+      "title": "El sistema operativo Windows 10 Education y su interfaz de usuario están protegidos por las leyes de marca comercial y otros derechos de propiedad intelectual actuales y pendientes en los Estados Unidos y otros países o regiones.",
+      "desc": "El sistema operativo Windows 10 Education y su interfaz de usuario están protegidos por las leyes de marca comercial y otros derechos de propiedad intelectual actuales y pendientes en los Estados Unidos y otros países o regiones.",
+      "name": "El sistema operativo Windows 10 Education y su interfaz de usuario están protegidos por las leyes de marca comercial y otros derechos de propiedad intelectual actuales y pendientes en los Estados Unidos y otros países o regiones.",
+      "toolTipText": "",
+      "valuePattern": ""
+    }
+  ],
+  "screenshotPath": "./output\\2021-03-29_12h46m06s_notepad_data_1\\scrshots\\2021-03-29_12h46m55s_notepad_data_1_sequence_1\\SCCrmnlrk3212324143530.png",
+  "screenshotId": "SCCrmnlrk3212324143530"
+}
