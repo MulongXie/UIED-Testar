@@ -23,16 +23,17 @@ if __name__ == '__main__':
     json_files = glob('data\\dataset2\\' + '*.json')
     names = [n.split('\\')[-1][:-5] for n in json_files]
 
-    js = json.load(open(json_files[0], 'r'))
-    img = cv2.imread(pjoin('data', 'dataset2', js['screenshotId'] + '.png'))
-    height, width = img.shape[:2]
+    for json_file in json_files:
+        js = json.load(open(json_file, 'r'))
+        img = cv2.imread(pjoin('data', 'dataset2', js['screenshotId'] + '.png'))
+        height, width = img.shape[:2]
 
-    for widget in js['widgetJsonObjects']:
-        #     board = img.copy()
-        #     print(widget)
-        new_bound = coord_transform(widget['boundingPoly']['stringVertice'])
-        visualize_widget(new_bound, img, show=False)
+        for widget in js['widgetJsonObjects']:
+            #     board = img.copy()
+            #     print(widget)
+            new_bound = coord_transform(widget['boundingPoly']['stringVertice'])
+            visualize_widget(new_bound, img, show=False)
 
-    cv2.imshow('img', img)
-    cv2.waitKey()
-    cv2.destroyWindow('img')
+        cv2.imshow('img', img)
+        cv2.waitKey()
+        cv2.destroyWindow('img')
