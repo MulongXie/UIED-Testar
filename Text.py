@@ -1,4 +1,5 @@
 import cv2
+import numpy as np
 
 
 class Text:
@@ -10,6 +11,11 @@ class Text:
         self.height = self.location['bottom'] - self.location['top']
         self.area = self.width * self.height
 
+    '''
+    ********************************
+    *** Relation with Other text ***
+    ********************************
+    '''
     def is_justified(self, ele_b, direction='h', max_bias_justify=4):
         '''
         Check if the element is justified
@@ -58,6 +64,11 @@ class Text:
                     return True
             return False
 
+    '''
+    ***********************
+    *** Revise the Text ***
+    ***********************
+    '''
     def merge_text(self, text_b):
         text_a = self
         top = min(text_a.location['top'], text_b.location['top'])
@@ -76,6 +87,72 @@ class Text:
             right_element = text_a
         self.content = left_element.content + ' ' + right_element.content
 
+    def shrink_bound(self, binary_map):
+        bin_clip = binary_map[self.location['top']:self.location['bottom'], self.location['left']:self.location['right']]
+        height, width = np.shape(bin_clip)
+
+        shrink_top = 0
+        shrink_bottom = 0
+        for i in range(height):
+            # top
+            if shrink_top == 0:
+                if sum(bin_clip[i]) == 0:
+                    shrink_top = 1
+                else:
+                    shrink_top = -1
+            elif shrink_top == 1:
+                if sum(bin_clip[i]) != 0:
+                    self.location['top'] += i
+                    shrink_top = -1
+            # bottom
+            if shrink_bottom == 0:
+                if sum(bin_clip[height-i-1]) == 0:
+                    shrink_bottom = 1
+                else:
+                    shrink_bottom = -1
+            elif shrink_bottom == 1:
+                if sum(bin_clip[height-i-1]) != 0:
+                    self.location['bottom'] -= i
+                    shrink_bottom = -1
+
+            if shrink_top == -1 and shrink_bottom == -1:
+                break
+
+        shrink_left = 0
+        shrink_right = 0
+        for j in range(width):
+            # left
+            if shrink_left == 0:
+                if sum(bin_clip[:, j]) == 0:
+                    shrink_left = 1
+                else:
+                    shrink_left = -1
+            elif shrink_left == 1:
+                if sum(bin_clip[:, j]) != 0:
+                    self.location['left'] += j
+                    shrink_left = -1
+            # right
+            if shrink_right == 0:
+                if sum(bin_clip[:, width-j-1]) == 0:
+                    shrink_right = 1
+                else:
+                    shrink_right = -1
+            elif shrink_right == 1:
+                if sum(bin_clip[:, width-j-1]) != 0:
+                    self.location['right'] -= j
+                    shrink_right = -1
+
+            if shrink_left == -1 and shrink_right == -1:
+                break
+        self.width = self.location['right'] - self.location['left']
+        self.height = self.location['bottom'] - self.location['top']
+        self.area = self.width * self.height
+
+    '''
+    *********************
+    *** Visualization ***
+    *********************
+    '''
     def visualize_text(self, img, color=(0, 255, 0), line=1, show=False):
         loc = self.location
         cv2.rectangle(img, (loc['left'], loc['top']), (loc['right'], loc['bottom']), color, line)

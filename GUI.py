@@ -38,6 +38,11 @@ class GUI:
     '''
     def widget_detection(self):
         elements = self.img_obj.get_elements()
+        # remove noise
+        for ele in elements:
+            if ele.height/ele.width >= 5:
+                ele.is_abandoned = True
+        # remove overlapping
         for i in range(len(elements) - 1):
             ei = elements[i]
             if ei.is_abandoned: continue
@@ -68,8 +73,12 @@ class GUI:
                 location = {'left': min(x_coordinates), 'top': min(y_coordinates),
                             'right': max(x_coordinates), 'bottom': max(y_coordinates)}
                 self.texts.append(Text(text, location))
-        self.text_sentences_recognition()
 
+    '''
+    ************************
+    **** Element Refine ****
+    ************************
+    '''
     def text_sentences_recognition(self, bias_justify=3, bias_gap=15):
         '''
         Merge separate words detected by Google ocr into a sentence
@@ -90,13 +99,20 @@ class GUI:
                     temp_set.append(text_a)
             self.texts = temp_set.copy()
 
+    def text_shrink_bound(self):
+        for text in self.texts:
+            text.shrink_bound(self.img_obj.binary_map)
+
     '''
     ***********************
     **** Visualization ****
     ***********************
     '''
+    def get_img_copy(self):
+        return self.img.copy()
+
     def visualize_widgets(self, color=(255, 0, 0), line=2, show=True, show_individual=False):
-        board = self.img.copy()
+        board = self.get_img_copy()
         for widget in self.widgets:
             widget.visualize_element(board, color, line)
             if show_individual:
@@ -110,7 +126,7 @@ class GUI:
             cv2.destroyWindow('widgets')
 
     def visualize_texts(self, color=(0, 255, 0), line=2, show=True, show_individual=False):
-        board = self.img.copy()
+        board = self.get_img_copy()
         for text in self.texts:
             text.visualize_text(board, color, line)
             if show_individual:
@@ -124,7 +140,7 @@ class GUI:
             cv2.destroyWindow('texts')
 
     def visualize_annotations(self, color=(0, 0, 255), line=1, show=True, show_individual=False):
-        board = self.img.copy()
+        board = self.get_img_copy()
         for annot in self.annotations:
             cv2.rectangle(board, annot[0], annot[2], color, line)
             if show_individual:
