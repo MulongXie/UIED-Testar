@@ -1,0 +1,306 @@
+[
+    {
+        "id": 0,
+        "type": "text",
+        "content": "\u0425",
+        "location": {
+            "left": 1223,
+            "top": 10,
+            "bottom": 20,
+            "right": 1232
+        }
+    },
+    {
+        "id": 1,
+        "type": "text",
+        "content": "Sin t\u00edtulo : Bloc de notas",
+        "location": {
+            "left": 31,
+            "top": 11,
+            "bottom": 21,
+            "right": 153
+        }
+    },
+    {
+        "id": 2,
+        "type": "text",
+        "content": "Archivo",
+        "location": {
+            "left": 8,
+            "top": 36,
+            "bottom": 46,
+            "right": 47
+        }
+    },
+    {
+        "id": 3,
+        "type": "text",
+        "content": "Edici\u00f3n",
+        "location": {
+            "left": 64,
+            "top": 36,
+            "bottom": 46,
+            "right": 100
+        }
+    },
+    {
+        "id": 4,
+        "type": "text",
+        "content": "Formato",
+        "location": {
+            "left": 117,
+            "top": 36,
+            "bottom": 46,
+            "right": 159
+        }
+    },
+    {
+        "id": 5,
+        "type": "text",
+        "content": "Ver",
+        "location": {
+            "left": 175,
+            "top": 36,
+            "bottom": 46,
+            "right": 190
+        }
+    },
+    {
+        "id": 6,
+        "type": "text",
+        "content": "Ayuda",
+        "location": {
+            "left": 205,
+            "top": 36,
+            "bottom": 48,
+            "right": 237
+        }
+    },
+    {
+        "id": 7,
+        "type": "text",
+        "content": "Ver la Ayuda",
+        "location": {
+            "left": 233,
+            "top": 59,
+            "bottom": 72,
+            "right": 297
+        }
+    },
+    {
+        "id": 8,
+        "type": "text",
+        "content": "Enviar comentarios",
+        "location": {
+            "left": 234,
+            "top": 81,
+            "bottom": 90,
+            "right": 333
+        }
+    },
+    {
+        "id": 9,
+        "type": "text",
+        "content": "Acerca del Bloc de notas",
+        "location": {
+            "left": 233,
+            "top": 110,
+            "bottom": 120,
+            "right": 361
+        }
+    },
+    {
+        "id": 10,
+        "type": "text",
+        "content": "Ln 1 , Col 1",
+        "location": {
+            "left": 832,
+            "top": 760,
+            "bottom": 771,
+            "right": 883
+        }
+    },
+    {
+        "id": 11,
+        "type": "text",
+        "content": "100 %",
+        "location": {
+            "left": 970,
+            "top": 760,
+            "bottom": 769,
+            "right": 996
+        }
+    },
+    {
+        "id": 12,
+        "type": "text",
+        "content": "Windows ( CRLF )",
+        "location": {
+            "left": 1019,
+            "top": 760,
+            "bottom": 772,
+            "right": 1104
+        }
+    },
+    {
+        "id": 13,
+        "type": "text",
+        "content": "UTF - 8",
+        "location": {
+            "left": 1140,
+            "top": 760,
+            "bottom": 770,
+            "right": 1169
+        }
+    },
+    {
+        "id": 14,
+        "type": "non-text",
+        "location": {
+            "left": 0,
+            "top": 0,
+            "bottom": 779,
+            "right": 1253
+        }
+    },
+    {
+        "id": 15,
+        "type": "non-text",
+        "location": {
+            "left": 1131,
+            "top": 751,
+            "bottom": 779,
+            "right": 1252
+        }
+    },
+    {
+        "id": 16,
+        "type": "non-text",
+        "location": {
+            "left": 1011,
+            "top": 751,
+            "bottom": 779,
+            "right": 1131
+        }
+    },
+    {
+        "id": 17,
+        "type": "non-text",
+        "location": {
+            "left": 961,
+            "top": 751,
+            "bottom": 779,
+            "right": 1011
+        }
+    },
+    {
+        "id": 18,
+        "type": "non-text",
+        "location": {
+            "left": 821,
+            "top": 751,
+            "bottom": 779,
+            "right": 961
+        }
+    },
+    {
+        "id": 19,
+        "type": "non-text",
+        "location": {
+            "left": 881,
+            "top": 760,
+            "bottom": 770,
+            "right": 886
+        }
+    },
+    {
+        "id": 20,
+        "type": "non-text",
+        "location": {
+            "left": 0,
+            "top": 751,
+            "bottom": 779,
+            "right": 821
+        }
+    },
+    {
+        "id": 21,
+        "type": "non-text",
+        "location": {
+            "left": 1239,
+            "top": 739,
+            "bottom": 746,
+            "right": 1247
+        }
+    },
+    {
+        "id": 22,
+        "type": "non-text",
+        "location": {
+            "left": 1239,
+            "top": 57,
+            "bottom": 64,
+            "right": 1247
+        }
+    },
+    {
+        "id": 23,
+        "type": "non-text",
+        "location": {
+            "left": 197,
+            "top": 31,
+            "bottom": 133,
+            "right": 420
+        }
+    },
+    {
+        "id": 24,
+        "type": "non-text",
+        "location": {
+            "left": 198,
+            "top": 51,
+            "bottom": 129,
+            "right": 416
+        }
+    },
+    {
+        "id": 25,
+        "type": "non-text",
+        "location": {
+            "left": 228,
+            "top": 100,
+            "bottom": 102,
+            "right": 414
+        }
+    },
+    {
+        "id": 26,
+        "type": "non-text",
+        "location": {
+            "left": 198,
+            "top": 32,
+            "bottom": 50,
+            "right": 245
+        }
+    },
+    {
+        "id": 27,
+        "type": "non-text",
+        "location": {
+            "left": 1177,
+            "top": 10,
+            "bottom": 21,
+            "right": 1188
+        }
+    },
+    {
+        "id": 28,
+        "type": "non-text",
+        "location": {
+            "left": 8,
+            "top": 7,
+            "bottom": 24,
+            "right": 25
+        }
+    }
+]

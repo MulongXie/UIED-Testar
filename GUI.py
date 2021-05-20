@@ -107,11 +107,29 @@ class GUI:
         noises = []
         for widget in self.widgets:
             for text in self.texts:
-                if widget.is_overlay_or_contained(text):
+                if widget.area > 0 and text.area > 0 and widget.is_overlay_or_contained(text):
                     widget.is_abandoned = True
                     noises.append(widget)
         for n in noises:
             self.widgets.remove(n)
+
+    '''
+    **************************
+    **** Basic Operations ****
+    **************************
+    '''
+    def assign_ids(self):
+        for i, ele in enumerate(self.texts + self.widgets):
+            ele.id = i
+
+    def save_all_elements(self, output_dir):
+        self.assign_ids()
+        elements = []
+        for text in self.texts:
+            elements.append({'id': text.id, 'type': 'text', 'content': text.content, 'location': text.location})
+        for widget in self.widgets:
+            elements.append({'id': widget.id, 'type': 'non-text', 'location': widget.location})
+        json.dump(elements, open(output_dir, 'w'), indent=4)
 
     '''
     ***********************
@@ -183,3 +201,4 @@ class GUI:
             cv2.imshow('all_elements', board)
             cv2.waitKey()
             cv2.destroyWindow('all_elements')
+        return board

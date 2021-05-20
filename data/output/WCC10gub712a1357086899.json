@@ -1,0 +1,13 @@
+[
+    {
+        "id": 0,
+        "type": "text",
+        "content": "O Vertical",
+        "location": {
+            "left": 3,
+            "top": 3,
+            "bottom": 17,
+            "right": 49
+        }
+    }
+]

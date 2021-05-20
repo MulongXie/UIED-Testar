@@ -1,0 +1,13 @@
+[
+    {
+        "id": 0,
+        "type": "text",
+        "content": "Negrita",
+        "location": {
+            "left": 1,
+            "top": 4,
+            "bottom": 17,
+            "right": 54
+        }
+    }
+]

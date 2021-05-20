@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "type": "text",
+        "content": "25",
+        "location": {
+            "left": -2,
+            "top": 2,
+            "bottom": 16,
+            "right": 13
+        }
+    },
+    {
+        "id": 1,
+        "type": "non-text",
+        "location": {
+            "left": 0,
+            "top": 0,
+            "bottom": 20,
+            "right": 42
+        }
+    }
+]
