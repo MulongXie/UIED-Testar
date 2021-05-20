@@ -103,6 +103,16 @@ class GUI:
         for text in self.texts:
             text.shrink_bound(self.img_obj.binary_map)
 
+    def merge_texts_widgets(self):
+        noises = []
+        for widget in self.widgets:
+            for text in self.texts:
+                if widget.is_overlay_or_contained(text):
+                    widget.is_abandoned = True
+                    noises.append(widget)
+        for n in noises:
+            self.widgets.remove(n)
+
     '''
     ***********************
     **** Visualization ****
@@ -128,7 +138,7 @@ class GUI:
     def visualize_texts(self, color=(0, 255, 0), line=2, show=True, show_individual=False):
         board = self.get_img_copy()
         for text in self.texts:
-            text.visualize_text(board, color, line)
+            text.visualize_element(board, color, line)
             if show_individual:
                 cv2.imshow('text', board)
                 cv2.waitKey()
@@ -152,3 +162,24 @@ class GUI:
             cv2.imshow('annotations', board)
             cv2.waitKey()
             cv2.destroyWindow('annotations')
+
+    def visualize_all_elements(self, line=2, show=True, show_individual=False):
+        board = self.get_img_copy()
+        for widget in self.widgets:
+            widget.visualize_element(board, (255, 0, 0), line)
+            if show_individual:
+                cv2.imshow('all', board)
+                cv2.waitKey()
+                cv2.destroyWindow('all')
+                board = self.img.copy()
+        for text in self.texts:
+            text.visualize_element(board, (0, 255, 0), line)
+            if show_individual:
+                cv2.imshow('all', board)
+                cv2.waitKey()
+                cv2.destroyWindow('all')
+                board = self.img.copy()
+        if show:
+            cv2.imshow('all_elements', board)
+            cv2.waitKey()
+            cv2.destroyWindow('all_elements')

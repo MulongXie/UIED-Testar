@@ -95,6 +95,17 @@ class Element:
             return True
         return False
 
+    def is_overlay_or_contained(self, ele_b, point_bias=3):
+        loc_a = self.location
+        loc_b = ele_b.location
+        if abs(loc_a['top'] - loc_b['top']) <= point_bias and abs(loc_a['bottom'] - loc_b['bottom']) <= point_bias and \
+                abs(loc_a['left'] - loc_b['left']) <= point_bias and abs(loc_a['right'] - loc_b['right']) <= point_bias:
+            return True
+        ioa, iob = self.calc_intersection(ele_b)
+        if ioa > 0.7:
+            return True
+        return False
+
     '''
     *********************
     *** Visualization ***
