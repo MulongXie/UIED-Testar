@@ -69,10 +69,10 @@ class GUI:
         for text in self.texts:
             text.visualize_text(board, color, line)
             if show_individual:
-                board = self.img.copy()
                 cv2.imshow('text', board)
                 cv2.waitKey()
                 cv2.destroyWindow('text')
+                board = self.img.copy()
         if show:
             cv2.imshow('texts', board)
             cv2.waitKey()
@@ -83,10 +83,10 @@ class GUI:
         for annot in self.annotations:
             cv2.rectangle(board, annot[0], annot[2], color, line)
             if show_individual:
-                board = self.img.copy()
                 cv2.imshow('annot', board)
                 cv2.waitKey()
                 cv2.destroyWindow('annot')
+                board = self.img.copy()
         if show:
             cv2.imshow('annotations', board)
             cv2.waitKey()

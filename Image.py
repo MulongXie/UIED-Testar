@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
-
-from detection.Element import Element
+from Element import Element
 
 
 class Image:
@@ -17,8 +16,6 @@ class Image:
         self.gradient_map = None
         self.binary_map = None
         self.get_gradient_map()
-        self.get_binary_map()
-        # self.get_binary_map_canny()
 
         self.all_elements = []
         self.rectangle_elements = []
@@ -52,7 +49,7 @@ class Image:
         self.gradient_map = gradient
         return gradient
 
-    def get_binary_map(self, min_grad=20):
+    def get_binary_map(self, min_grad=20, show=False):
         '''
         :param min_grad: if a pixel is bigger than this, then count it as foreground (255)
         :return: binary map
@@ -60,6 +57,10 @@ class Image:
         rec, bin = cv2.threshold(self.gradient_map, min_grad, 255, cv2.THRESH_BINARY)
         morph = cv2.morphologyEx(bin, cv2.MORPH_CLOSE, (3, 3))  # remove noises
         self.binary_map = morph
+        if show:
+            cv2.imshow('bin', morph)
+            cv2.waitKey()
+            cv2.destroyWindow('bin')
         return morph
 
     def get_binary_map_canny(self):
@@ -105,13 +106,6 @@ class Image:
                     bin_clip = self.binary_map[ele.location['top']: ele.location['bottom'], ele.location['left']: ele.location['right']]
                     white_ratio = (np.sum(bin_clip) / 255) / (ele.width * ele.height)
                     # if too much white region, count as filled
-                    # exception of small square
-                    # if rect_squ_check == 'square' and ele.width < 20 and ele.height < 20:
-                    #     if white_ratio < 0.8:
-                    #         ele.type = 'square'
-                    #         self.square_elements.append(ele)
-                    #     continue
-                    # elif white_ratio > 0.5:
                     if white_ratio > 0.5:
                         continue
                 if rect_squ_check == 'square':
@@ -137,80 +131,38 @@ class Image:
     **** Visualization ****
     ***********************
     '''
-    def visualize_elements_contours(self, element_opt='all', board_opt='org',
-                                    contours=None, board=None,
-                                    window_name='contour', color=(255, 0, 0)):
+    def visualize_elements_contours(self, board_opt='org', board=None, color=(255, 0, 0)):
         '''
-        :param element_opt: 'all'/'rectangle'/'line'
         :param board_opt: 'org'/'binary'
-        :param contours: input contours, if none, check element_opt and use inner elements
-        :param board: board image to draw on
         :return: drawn image
         '''
-        if contours is None:
-            if element_opt == 'all':
-                contours = [ele.contour for ele in self.all_elements]
-            elif element_opt == 'rectangle':
-                contours = [ele.contour for ele in self.rectangle_elements]
-            elif element_opt == 'line':
-                contours = [ele.contour for ele in self.line_elements]
-            elif element_opt == 'square':
-                contours = [ele.contour for ele in self.square_elements]
-            else:
-                print("element_opt: 'all'/'rectangle'/'line'/'square")
-                return
+        contours = [ele.contour for ele in self.all_elements]
         if board is None:
             if board_opt == 'org':
                 board = self.img.copy()
             elif board_opt == 'binary':
                 board = np.zeros((self.img_shape[0], self.img_shape[1]))
-            else:
-                print("board_opt: 'org'/'binary'")
-                return
         cv2.drawContours(board, contours, -1, color)
-        cv2.imshow(window_name, board)
+        cv2.imshow('contour', board)
         cv2.waitKey()
-        cv2.destroyWindow(window_name)
+        cv2.destroyWindow('contour')
         return board
 
-    def visualize_elements_contours_individual(self, element_opt='all', board_opt='org',
-                                               board=None,
-                                               window_name='contour', color=(255, 0, 0)):
+    def visualize_elements_contours_individual(self, board_opt='org', board=None, color=(255, 0, 0)):
         '''
-        :param element_opt: 'all'/'rectangle'/'line'
         :param board_opt: 'org'/'binary'
-        :param contours: input contours, if none, check element_opt and use inner elements
         :param board: board image to draw on
         :return: drawn image
         '''
-        if element_opt == 'all':
-            # contours = [ele.contour for ele in self.all_elements]
-            eles = self.all_elements
-        elif element_opt == 'rectangle':
-            # contours = [ele.contour for ele in self.rectangle_elements]
-            eles = self.rectangle_elements
-        elif element_opt == 'line':
-            # contours = [ele.contour for ele in self.line_elements]
-            eles = self.line_elements
-        elif element_opt == 'square':
-            # contours = [ele.contour for ele in self.square_elements]
-            eles = self.square_elements
-        else:
-            print("element_opt: 'all'/'rectangle'/'line'/'square")
-            return
         if board is None:
             if board_opt == 'org':
                 board = self.img.copy()
             elif board_opt == 'binary':
                 board = np.zeros((self.img_shape[0], self.img_shape[1]))
-            else:
-                print("board_opt: 'org'/'binary'")
-                return
 
-        for ele in eles:
-            ele.is_rectangle_or_square()
+        for ele in self.all_elements:
             cv2.drawContours(board, [ele.contour], -1, color)
-            cv2.imshow(window_name, board)
+            cv2.imshow('contour', board)
             cv2.waitKey()
-        cv2.destroyWindow(window_name)
+        cv2.destroyWindow('contour')
         return board
