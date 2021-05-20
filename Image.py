@@ -10,12 +10,15 @@ class Image:
         self.resize_height = resize_height
         self.resize_img_by_height()
 
-        self.grey_img = cv2.cvtColor(self.img, cv2.COLOR_BGR2GRAY)
         self.img_shape = self.img.shape
+        self.height = self.img.shape[0]
+        self.width = self.img.shape[1]
 
+        self.grey_img = cv2.cvtColor(self.img, cv2.COLOR_BGR2GRAY)
         self.gradient_map = None
         self.binary_map = None
         self.get_gradient_map()
+        self.get_binary_map()
 
         self.all_elements = []
         self.rectangle_elements = []
@@ -131,6 +134,14 @@ class Image:
     **** Visualization ****
     ***********************
     '''
+    def visualize_binary_map(self):
+        if self.binary_map is None:
+            self.get_binary_map(show=True)
+        else:
+            cv2.imshow('binary', self.binary_map)
+            cv2.waitKey()
+            cv2.destroyWindow('binary')
+
     def visualize_elements_contours(self, board_opt='org', board=None, color=(255, 0, 0)):
         '''
         :param board_opt: 'org'/'binary'

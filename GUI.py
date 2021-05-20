@@ -3,12 +3,14 @@ import json
 import os
 import ocr
 from Text import Text
+from Image import Image
 
 
 class GUI:
     def __init__(self, img_path, annotation_path=None):
         self.img_path = img_path
-        self.img = cv2.imread(img_path)
+        self.img_obj = Image(img_path)
+        self.img = self.img_obj.img
         self.annotation_path = annotation_path
         self.annotations = []
 
@@ -29,6 +31,29 @@ class GUI:
         else:
             print('No annotation file exits')
 
+    '''
+    ***************************
+    **** Element Detection ****
+    ***************************
+    '''
+    def widget_detection(self):
+        elements = self.img_obj.get_elements()
+        for i in range(len(elements) - 1):
+            ei = elements[i]
+            if ei.is_abandoned: continue
+            for j in range(i + 1, len(elements)):
+                ej = elements[j]
+                if ej.is_abandoned: continue
+                # if redundant, remove the smaller one
+                if ei.is_ele_overlay(ej):
+                    if ei.area >= ej.area:
+                        ej.is_abandoned = True
+                    else:
+                        ei.is_abandoned = True
+        for ele in elements:
+            if not ele.is_abandoned:
+                self.widgets.append(ele)
+
     def text_detection(self):
         ocr_result = ocr.ocr_detection_google(self.img_path)
         if ocr_result is not None:
@@ -43,6 +68,7 @@ class GUI:
                 location = {'left': min(x_coordinates), 'top': min(y_coordinates),
                             'right': max(x_coordinates), 'bottom': max(y_coordinates)}
                 self.texts.append(Text(text, location))
+        self.text_sentences_recognition()
 
     def text_sentences_recognition(self, bias_justify=3, bias_gap=15):
         '''
@@ -64,7 +90,26 @@ class GUI:
                     temp_set.append(text_a)
             self.texts = temp_set.copy()
 
-    def visualize_texts(self, color=(0, 255, 0), line=1, show=True, show_individual=False):
+    '''
+    ***********************
+    **** Visualization ****
+    ***********************
+    '''
+    def visualize_widgets(self, color=(255, 0, 0), line=2, show=True, show_individual=False):
+        board = self.img.copy()
+        for widget in self.widgets:
+            widget.visualize_element(board, color, line)
+            if show_individual:
+                cv2.imshow('widget', board)
+                cv2.waitKey()
+                cv2.destroyWindow('widget')
+                board = self.img.copy()
+        if show:
+            cv2.imshow('widgets', board)
+            cv2.waitKey()
+            cv2.destroyWindow('widgets')
+
+    def visualize_texts(self, color=(0, 255, 0), line=2, show=True, show_individual=False):
         board = self.img.copy()
         for text in self.texts:
             text.visualize_text(board, color, line)
